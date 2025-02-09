@@ -3,7 +3,7 @@ let jsonData = [];
 
 async function fetchData() {
     try {
-        const response = await fetch("launch.json");
+        const response = await fetch("launch_fnr.json");
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize();
@@ -118,4 +118,4 @@ function initialize() {
     applyFilters();
 }
 
-fetchData();
+fetchData()
