@@ -7,7 +7,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 3,
     "Status": "Completed"
   },
   {
@@ -18,7 +18,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 3,
     "Status": "Completed"
   },
   {
@@ -29,7 +29,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 3,
     "Status": "Completed"
   },
   {
@@ -106,7 +106,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 2,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -117,7 +117,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 2,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -128,7 +128,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 2,
+    "Achv Qty": 1,
     "Status": "Completed"
   },
   {
@@ -172,8 +172,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-216252F-C740",
@@ -183,8 +183,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-216252F-C740",
@@ -194,8 +194,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1013",
@@ -271,8 +271,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1143",
@@ -282,8 +282,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1143",
@@ -293,8 +293,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1148",
@@ -304,8 +304,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1148",
@@ -315,8 +315,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1148",
@@ -326,8 +326,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 2,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 2,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P1185",
@@ -535,8 +535,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P811",
@@ -546,8 +546,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-P811",
@@ -557,8 +557,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR10",
@@ -601,8 +601,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR177",
@@ -612,8 +612,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR177",
@@ -623,8 +623,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR205",
@@ -1030,8 +1030,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR423",
@@ -1041,8 +1041,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR423",
@@ -1052,8 +1052,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR443",
@@ -1261,8 +1261,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR633",
@@ -1272,8 +1272,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR633",
@@ -1283,8 +1283,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR636",
@@ -1822,8 +1822,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P13145",
@@ -1833,8 +1833,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P13145",
@@ -1844,8 +1844,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P13589",
@@ -1888,8 +1888,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P13825",
@@ -1899,8 +1899,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P13825",
@@ -1910,8 +1910,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P15198",
@@ -1954,7 +1954,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -1965,7 +1965,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -1976,7 +1976,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -2185,7 +2185,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -2196,7 +2196,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -2207,7 +2207,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
