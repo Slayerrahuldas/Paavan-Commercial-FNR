@@ -40,7 +40,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 14315.86,
+    "ECO": 17567.11,
     "Shikhar": 2949.48
   },
   {
@@ -62,7 +62,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 8034.98,
+    "ECO": 8282.68,
     "Shikhar": 0
   },
   {
@@ -95,7 +95,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 28177.96,
+    "ECO": 35637.73,
     "Shikhar": 11419.93
   },
   {
@@ -117,7 +117,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 6155.17,
+    "ECO": 6104.75,
     "Shikhar": 0
   },
   {
@@ -161,8 +161,19 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 4004.37,
+    "ECO": 4276.73,
     "Shikhar": 1112.92
+  },
+  {
+    "HUL Code": "HUL-216252F-C1999",
+    "HUL Outlet Name": "A.C.KAPAS(FLO)-F-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-M.G.ROAD",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085P-P142",
@@ -172,7 +183,29 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3370.31,
+    "ECO": 2904.86,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P15474",
+    "HUL Outlet Name": "A4 Corner-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D-R.D.STREET_COMM",
+    "FnR ME Name": "Kakali Saha",
+    "FnR Beat": "F-R D STREET",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P15856",
+    "HUL Outlet Name": "AA Enterprise-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-M G ROAD",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -183,7 +216,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 2140.56,
+    "ECO": 1829.98,
     "Shikhar": 873.58
   },
   {
@@ -227,18 +260,18 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2761.64,
+    "ECO": 4021.46,
     "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085D-PAR13",
     "HUL Outlet Name": "Abdul Samadh-D-D",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": "Sourav Das",
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4138.3,
+    "ECO": 4959.54,
     "Shikhar": 0
   },
   {
@@ -249,7 +282,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 6949.9,
+    "ECO": 6772.12,
     "Shikhar": 0
   },
   {
@@ -271,7 +304,7 @@
     "DETS Beat": "D-KALAKAR STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 6984.41,
+    "ECO": 10207.93,
     "Shikhar": 3428.54
   },
   {
@@ -304,7 +337,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 2402.92,
+    "ECO": 2983.06,
     "Shikhar": 0
   },
   {
@@ -326,7 +359,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 11025.68,
+    "ECO": 10737.31,
     "Shikhar": 1071.44
   },
   {
@@ -337,8 +370,8 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 177622.5,
-    "Shikhar": 0
+    "ECO": 192874.29,
+    "Shikhar": 15251.8
   },
   {
     "HUL Code": "HUL-217701D-P21742",
@@ -425,7 +458,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 9592.81,
+    "ECO": 11007.47,
     "Shikhar": -163.64
   },
   {
@@ -436,7 +469,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 5149.56,
+    "ECO": 5451.02,
     "Shikhar": 0
   },
   {
@@ -449,6 +482,17 @@
     "FnR Beat": "",
     "ECO": 10375.79,
     "Shikhar": 2652.05
+  },
+  {
+    "HUL Code": "HUL-217701D-P13262",
+    "HUL Outlet Name": "AKSHAY TRADING CO.-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-NIMTALA STREET 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P17118",
@@ -469,7 +513,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 15751.01,
+    "ECO": 16109.75,
     "Shikhar": 15227.56
   },
   {
@@ -495,6 +539,28 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P11577",
+    "HUL Outlet Name": "AMBEY STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P21414",
+    "HUL Outlet Name": "Amit Agerwal-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-BOW STREET(2)_COMM",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR30",
     "HUL Outlet Name": "Amit Stores-D-D",
     "Shikhar Onboarding": "YES",
@@ -502,7 +568,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 6605.65,
+    "ECO": 7302.89,
     "Shikhar": 1579.96
   },
   {
@@ -513,8 +579,19 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 79176.29,
+    "ECO": 114946.71,
     "Shikhar": 12303.22
+  },
+  {
+    "HUL Code": "HUL-217701D-P16969",
+    "HUL Outlet Name": "Amush-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P22197",
@@ -579,7 +656,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 175.4,
+    "ECO": 150.05,
     "Shikhar": 0
   },
   {
@@ -594,6 +671,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P11207",
+    "HUL Outlet Name": "ANIL KUMAR DAS-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P13665",
     "HUL Outlet Name": "ANIL STORES-D",
     "Shikhar Onboarding": "YES",
@@ -601,7 +689,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2387.28,
+    "ECO": 2722.38,
     "Shikhar": 1284.69
   },
   {
@@ -612,7 +700,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 9140.21,
+    "ECO": 9833.99,
     "Shikhar": 3552.32
   },
   {
@@ -627,6 +715,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-PAR33",
+    "HUL Outlet Name": "ANJU VARITY STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P15223",
     "HUL Outlet Name": "Anklet Stores-D",
     "Shikhar Onboarding": "NO",
@@ -634,13 +733,13 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3306.6,
+    "ECO": 3031.46,
     "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P8626",
     "HUL Outlet Name": "ANKUR ENTERPRISE-UNC",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": "Sanjay Das",
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
@@ -689,7 +788,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 8845.41,
+    "ECO": 9901.05,
     "Shikhar": 0
   },
   {
@@ -700,7 +799,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 1467.41,
+    "ECO": 1771.18,
     "Shikhar": 0
   },
   {
@@ -711,7 +810,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2940.78,
+    "ECO": 3585.18,
     "Shikhar": 0
   },
   {
@@ -722,7 +821,7 @@
     "DETS Beat": "D-RAJAKATRA - 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 818.21,
+    "ECO": 1065.48,
     "Shikhar": 0
   },
   {
@@ -744,7 +843,7 @@
     "DETS Beat": "D-B. M  STREET",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-B M STREET",
-    "ECO": 5905.21,
+    "ECO": 5289.35,
     "Shikhar": 0
   },
   {
@@ -766,7 +865,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 2139.14,
+    "ECO": 2467.91,
     "Shikhar": 1075.42
   },
   {
@@ -777,7 +876,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 11807.05,
+    "ECO": 19309.27,
     "Shikhar": 1401.96
   },
   {
@@ -788,7 +887,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 10440.07,
+    "ECO": 12975.02,
     "Shikhar": 7938.97
   },
   {
@@ -821,8 +920,8 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 9128.61,
-    "Shikhar": 7260.42
+    "ECO": 10783.4,
+    "Shikhar": 8915.2
   },
   {
     "HUL Code": "HUL-216252F-C696",
@@ -832,7 +931,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 12815.48,
+    "ECO": 14747.24,
     "Shikhar": -139.78
   },
   {
@@ -865,7 +964,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 454.5,
+    "ECO": 689.51,
     "Shikhar": 0
   },
   {
@@ -876,7 +975,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 2698.39,
+    "ECO": 4603.14,
     "Shikhar": 0
   },
   {
@@ -887,7 +986,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJAKATRA 3",
-    "ECO": 295317.19,
+    "ECO": 323941.22,
     "Shikhar": 38257.72
   },
   {
@@ -909,7 +1008,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 2205.27,
+    "ECO": 2419.56,
     "Shikhar": 0
   },
   {
@@ -920,7 +1019,7 @@
     "DETS Beat": "D-DALPATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 38631.08,
+    "ECO": 38863.57,
     "Shikhar": 36951.99
   },
   {
@@ -953,8 +1052,8 @@
     "DETS Beat": "D-D C MITRA STREET",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-D C M STREET",
-    "ECO": 10145.13,
-    "Shikhar": 2980.53
+    "ECO": 10091.79,
+    "Shikhar": 2927.19
   },
   {
     "HUL Code": "HUL-217701D-P13755",
@@ -997,7 +1096,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 4052.63,
+    "ECO": 5407.51,
     "Shikhar": 0
   },
   {
@@ -1008,7 +1107,7 @@
     "DETS Beat": "D-NIMTALA GHAT STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 20304.08,
+    "ECO": 22756.54,
     "Shikhar": 6272.82
   },
   {
@@ -1041,7 +1140,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 8526.08,
+    "ECO": 8518.76,
     "Shikhar": 1552.62
   },
   {
@@ -1067,6 +1166,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701P22435",
+    "HUL Outlet Name": "Ashis Variety Stores",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sandip Saha",
+    "DETS Beat": "D-B. M  STREET",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P15248",
     "HUL Outlet Name": "Ashok Shaw-D",
     "Shikhar Onboarding": "NO",
@@ -1078,6 +1188,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P15273",
+    "HUL Outlet Name": "ASHOKA ENTERPRISH-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-RAM MANDIR",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR53",
     "HUL Outlet Name": "Ashoke & Raj-D-D",
     "Shikhar Onboarding": "YES",
@@ -1085,7 +1206,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 12448.17,
+    "ECO": 13840.48,
     "Shikhar": 1335.16
   },
   {
@@ -1097,6 +1218,17 @@
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-RAM MANDIR",
     "ECO": 1853.35,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P13554",
+    "HUL Outlet Name": "ASHOKE STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -1129,7 +1261,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 2499.44,
+    "ECO": 2799.31,
     "Shikhar": 0
   },
   {
@@ -1140,7 +1272,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 5070.97,
+    "ECO": 6564.61,
     "Shikhar": 2548.53
   },
   {
@@ -1151,7 +1283,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1908,
+    "ECO": 2234.77,
     "Shikhar": 0
   },
   {
@@ -1173,7 +1305,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2220.93,
+    "ECO": 2484.79,
     "Shikhar": -380
   },
   {
@@ -1184,7 +1316,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 17486.07,
+    "ECO": 23134.48,
     "Shikhar": 0
   },
   {
@@ -1195,7 +1327,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 2446.8,
+    "ECO": 3692.59,
     "Shikhar": 0
   },
   {
@@ -1239,7 +1371,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 1892.67,
+    "ECO": 1656.08,
     "Shikhar": 0
   },
   {
@@ -1261,7 +1393,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 3191.67,
+    "ECO": 3410.57,
     "Shikhar": 0
   },
   {
@@ -1272,7 +1404,7 @@
     "DETS Beat": "D-HASTINGS",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-HASTINGS EXTRA",
-    "ECO": 3965.98,
+    "ECO": 3428.29,
     "Shikhar": 0
   },
   {
@@ -1294,8 +1426,19 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 14855.92,
+    "ECO": 18630.16,
     "Shikhar": 5246.98
+  },
+  {
+    "HUL Code": "HUL-217085D-PAR71",
+    "HUL Outlet Name": "B P Jaiswal-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-B.K.PAUL",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P6973",
@@ -1331,6 +1474,17 @@
     "Shikhar": 19054.56
   },
   {
+    "HUL Code": "HUL-217085D-P1250",
+    "HUL Outlet Name": "B.B.SAHU & CO.-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-BOW STREET 2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P21644",
     "HUL Outlet Name": "B.K.Modi-D",
     "Shikhar Onboarding": "YES",
@@ -1338,7 +1492,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 1952.56,
+    "ECO": 2161.65,
     "Shikhar": 1034.83
   },
   {
@@ -1382,7 +1536,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 7929.62,
+    "ECO": 10465.97,
     "Shikhar": 1608.62
   },
   {
@@ -1454,12 +1608,12 @@
   {
     "HUL Code": "HUL-217701D-P17397",
     "HUL Outlet Name": "BAIDYA NATH TEA Co.-D",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": 0,
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-GUR PATTY",
-    "ECO": 37949.88,
+    "ECO": 58905,
     "Shikhar": 0
   },
   {
@@ -1481,8 +1635,8 @@
     "DETS Beat": "D-RAJAKATRA - 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 31584.61,
-    "Shikhar": 29920.66
+    "ECO": 55386.09,
+    "Shikhar": 34809.58
   },
   {
     "HUL Code": "HUL-217085D-PAR81",
@@ -1492,7 +1646,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 6564.63,
+    "ECO": 6807.17,
     "Shikhar": 962.83
   },
   {
@@ -1514,7 +1668,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4613.18,
+    "ECO": 3571.03,
     "Shikhar": 0
   },
   {
@@ -1525,7 +1679,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 697.91,
+    "ECO": 926.28,
     "Shikhar": 0
   },
   {
@@ -1534,9 +1688,9 @@
     "Shikhar Onboarding": "NO",
     "DETS ME Name": 0,
     "DETS Beat": "",
-    "FnR ME Name": "Koina Prasad",
-    "FnR Beat": "F- BOW STREET  1",
-    "ECO": 2548.78,
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 2885.08,
     "Shikhar": 262.28
   },
   {
@@ -1580,7 +1734,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 2572.59,
+    "ECO": 3116.1,
     "Shikhar": 1171.32
   },
   {
@@ -1602,7 +1756,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 4507.26,
+    "ECO": 7571.57,
     "Shikhar": 0
   },
   {
@@ -1613,7 +1767,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 963.47,
+    "ECO": 1409.23,
     "Shikhar": 0
   },
   {
@@ -1624,7 +1778,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 588.25,
+    "ECO": 1174.19,
     "Shikhar": 0
   },
   {
@@ -1646,7 +1800,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 23602.44,
+    "ECO": 27091.42,
     "Shikhar": 14605.17
   },
   {
@@ -1657,7 +1811,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 4232.39,
+    "ECO": 5697.92,
     "Shikhar": 0
   },
   {
@@ -1690,7 +1844,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 92946.9,
+    "ECO": 96734.82,
     "Shikhar": 60000.46
   },
   {
@@ -1701,7 +1855,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 1826.15,
+    "ECO": 2461.9,
     "Shikhar": 0
   },
   {
@@ -1736,6 +1890,17 @@
     "FnR Beat": "F-D C M STREET",
     "ECO": 9201.48,
     "Shikhar": 1616.59
+  },
+  {
+    "HUL Code": "HUL-217701D-P17553",
+    "HUL Outlet Name": "BHADRA KALI-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Md. Asraf Ashraf",
+    "FnR Beat": "F-GUR PATTY",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085D-P3653",
@@ -1811,7 +1976,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-GUR PATTY",
-    "ECO": 6295.22,
+    "ECO": 6604.58,
     "Shikhar": 0
   },
   {
@@ -1823,6 +1988,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 1363.64,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217432D-B018",
+    "HUL Outlet Name": "BHOLA BHANDAR-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Deepak Kumar Patel",
+    "DETS Beat": "D-BABU BAZAR 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -1844,7 +2020,7 @@
     "DETS Beat": "D-DALPATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 33025.28,
+    "ECO": 46288.34,
     "Shikhar": 30135.85
   },
   {
@@ -1866,7 +2042,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 9318.65,
+    "ECO": 9556.73,
     "Shikhar": 756.37
   },
   {
@@ -1877,7 +2053,7 @@
     "DETS Beat": "D-NIMTALA GHAT STREET",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 1006.87,
+    "ECO": 1317.29,
     "Shikhar": -1089.64
   },
   {
@@ -1943,7 +2119,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 7517.84,
+    "ECO": 7754.44,
     "Shikhar": 3396.57
   },
   {
@@ -1954,7 +2130,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 5966.4,
+    "ECO": 6520.33,
     "Shikhar": 1006.59
   },
   {
@@ -1965,7 +2141,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 2810.3,
+    "ECO": 2755.76,
     "Shikhar": 0
   },
   {
@@ -1976,7 +2152,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 4424.4,
+    "ECO": 4890.39,
     "Shikhar": 1052.64
   },
   {
@@ -1987,7 +2163,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 9242.43,
+    "ECO": 9852.8,
     "Shikhar": 1322.43
   },
   {
@@ -2053,7 +2229,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1134.51,
+    "ECO": 1367,
     "Shikhar": 0
   },
   {
@@ -2064,8 +2240,8 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 3145.98,
-    "Shikhar": 0
+    "ECO": 3622.36,
+    "Shikhar": -446.09
   },
   {
     "HUL Code": "HUL-217701D-P7038",
@@ -2075,7 +2251,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3224.01,
+    "ECO": 3470.74,
     "Shikhar": 2100.1
   },
   {
@@ -2097,7 +2273,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 10059.49,
+    "ECO": 13135.48,
     "Shikhar": 0
   },
   {
@@ -2108,7 +2284,7 @@
     "DETS Beat": "D- D.C. M. STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4141.78,
+    "ECO": 3923.6,
     "Shikhar": 0
   },
   {
@@ -2130,7 +2306,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 8255.32,
+    "ECO": 10399.24,
     "Shikhar": 1366.51
   },
   {
@@ -2142,6 +2318,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 871.02,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P21980",
+    "HUL Outlet Name": "BISWAJIT MAITY SHOP-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -2163,7 +2350,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 3766.64,
+    "ECO": 5087.75,
     "Shikhar": 1313.85
   },
   {
@@ -2174,7 +2361,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-DURGA CHARAN MITRA STREET",
-    "ECO": 17122.88,
+    "ECO": 17122.87,
     "Shikhar": 3458.36
   },
   {
@@ -2211,6 +2398,17 @@
     "Shikhar": 19198.55
   },
   {
+    "HUL Code": "HUL-217701D-P13609",
+    "HUL Outlet Name": "C P GUPTA-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D-BAGBAZAR",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR130",
     "HUL Outlet Name": "C R Dutta-D-D",
     "Shikhar Onboarding": "YES",
@@ -2218,7 +2416,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 6276.28,
+    "ECO": 7073.63,
     "Shikhar": 1454.11
   },
   {
@@ -2251,7 +2449,7 @@
     "DETS Beat": "D-BAGREE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 33583.77,
+    "ECO": 43168.9,
     "Shikhar": 0
   },
   {
@@ -2262,7 +2460,7 @@
     "DETS Beat": "D-CANNING STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 346099.74,
+    "ECO": 351008.77,
     "Shikhar": 137178.53
   },
   {
@@ -2284,7 +2482,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 43559.54,
+    "ECO": 44764.26,
     "Shikhar": 900
   },
   {
@@ -2328,7 +2526,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2989.9,
+    "ECO": 3400.67,
     "Shikhar": 0
   },
   {
@@ -2339,7 +2537,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 16559.39,
+    "ECO": 21324.78,
     "Shikhar": 0
   },
   {
@@ -2350,7 +2548,7 @@
     "DETS Beat": "D-R.D.SARKAR_COMM",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- R.D.SARKAR STREET",
-    "ECO": 4523.72,
+    "ECO": 22523.86,
     "Shikhar": 1714.37
   },
   {
@@ -2372,7 +2570,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 10455.6,
+    "ECO": 10639.64,
     "Shikhar": 2555.22
   },
   {
@@ -2383,7 +2581,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2145.6,
+    "ECO": 2431.47,
     "Shikhar": 0
   },
   {
@@ -2405,7 +2603,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 2781.65,
+    "ECO": 3663.12,
     "Shikhar": 800.8
   },
   {
@@ -2460,7 +2658,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 4615.54,
+    "ECO": 5312.04,
     "Shikhar": 1052.64
   },
   {
@@ -2471,7 +2669,7 @@
     "DETS Beat": "D-GANESH MKT",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": -11742.46,
+    "ECO": -11487.91,
     "Shikhar": -13641.22
   },
   {
@@ -2482,7 +2680,7 @@
     "DETS Beat": "D-B. M  STREET",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-B M STREET",
-    "ECO": 2602.66,
+    "ECO": 2816.64,
     "Shikhar": 0
   },
   {
@@ -2493,7 +2691,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 6346.28,
+    "ECO": 6808.33,
     "Shikhar": 1627.47
   },
   {
@@ -2504,7 +2702,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 14644.6,
+    "ECO": 15228.64,
     "Shikhar": 1025.52
   },
   {
@@ -2515,7 +2713,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 12237.1,
+    "ECO": 12780.05,
     "Shikhar": 963.72
   },
   {
@@ -2526,7 +2724,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 9811.18,
+    "ECO": 12365.98,
     "Shikhar": 0
   },
   {
@@ -2647,7 +2845,7 @@
     "DETS Beat": "D-BAGREE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 88764.65,
+    "ECO": 98638.93,
     "Shikhar": 40374
   },
   {
@@ -2669,7 +2867,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 914.59,
+    "ECO": 1412.2,
     "Shikhar": 0
   },
   {
@@ -2691,7 +2889,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJAKATRA 3",
-    "ECO": 2339.38,
+    "ECO": 8600.5,
     "Shikhar": 0
   },
   {
@@ -2706,6 +2904,28 @@
     "Shikhar": 5105.55
   },
   {
+    "HUL Code": "HUL-217701D-P15368",
+    "HUL Outlet Name": "Dheerat Kumar-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sandip Saha",
+    "DETS Beat": "D-DURGA CHARAN MITRA STREET",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-D C M STREET",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P6751",
+    "HUL Outlet Name": "Dhruba Tea Centre-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-INDIA EXCH. PLACE",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P17113",
     "HUL Outlet Name": "Dilip Dutta-D",
     "Shikhar Onboarding": "NO",
@@ -2713,7 +2933,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3691.87,
+    "ECO": 4436.96,
     "Shikhar": 0
   },
   {
@@ -2725,6 +2945,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 5452.25,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P17153",
+    "HUL Outlet Name": "DILIP SHAW STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -2757,7 +2988,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 3984.09,
+    "ECO": 4193.6,
     "Shikhar": 1777.24
   },
   {
@@ -2768,7 +2999,29 @@
     "DETS Beat": "",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 1945.33,
+    "ECO": 1591.83,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P12015",
+    "HUL Outlet Name": "DINKI STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D- NATUN BAZAR 3",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P13165",
+    "HUL Outlet Name": "DIPAK BHANDER-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-MECHUA 1",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -2779,7 +3032,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5238.06,
+    "ECO": 5309.13,
     "Shikhar": 505.52
   },
   {
@@ -2790,7 +3043,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 10716.04,
+    "ECO": 11965.08,
     "Shikhar": 2224.75
   },
   {
@@ -2812,7 +3065,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 10294.89,
+    "ECO": 10533.35,
     "Shikhar": 1982.57
   },
   {
@@ -2824,6 +3077,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 1940.25,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P15459",
+    "HUL Outlet Name": "Draupadi-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Kakali Saha",
+    "FnR Beat": "F-CHATU BABU BAZAR",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -2845,7 +3109,7 @@
     "DETS Beat": "D-DALPATTY",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 58565.7,
+    "ECO": 72585.2,
     "Shikhar": 52395.32
   },
   {
@@ -2867,7 +3131,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 15002.15,
+    "ECO": 17272.86,
     "Shikhar": 7849.55
   },
   {
@@ -2889,7 +3153,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 6207.98,
+    "ECO": 8846.61,
     "Shikhar": 1067.38
   },
   {
@@ -2904,6 +3168,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P10057",
+    "HUL Outlet Name": "EMPIRE STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-P1088",
     "HUL Outlet Name": "ENAMUL HAQUE-D-D",
     "Shikhar Onboarding": "YES",
@@ -2911,7 +3186,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 3404.64,
+    "ECO": 3762.36,
     "Shikhar": 2683.52
   },
   {
@@ -2922,7 +3197,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 1231.43,
+    "ECO": 2225.8,
     "Shikhar": 0
   },
   {
@@ -2933,7 +3208,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 6215.23,
+    "ECO": 7917.2,
     "Shikhar": 1196.64
   },
   {
@@ -2944,8 +3219,8 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 12496.87,
-    "Shikhar": 1343.89
+    "ECO": 12151.75,
+    "Shikhar": 1343.9
   },
   {
     "HUL Code": "HUL-217701D-P15278",
@@ -2977,7 +3252,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 5724.27,
+    "ECO": 6634.71,
     "Shikhar": 1057.45
   },
   {
@@ -3021,8 +3296,8 @@
     "DETS Beat": "D-BAGREE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 0,
-    "Shikhar": 0
+    "ECO": 17681.83,
+    "Shikhar": 17681.83
   },
   {
     "HUL Code": "HUL-217085D-PAR173",
@@ -3032,7 +3307,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 1227.41,
+    "ECO": 1354.74,
     "Shikhar": 0
   },
   {
@@ -3058,6 +3333,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P12310",
+    "HUL Outlet Name": "G.C.SETH-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-M.G.ROAD",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217432D-G001",
     "HUL Outlet Name": "G.P.PAUL-D-D",
     "Shikhar Onboarding": "YES",
@@ -3065,7 +3351,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 32634.66,
+    "ECO": 33832.65,
     "Shikhar": 23928.84
   },
   {
@@ -3076,7 +3362,7 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 953.71,
+    "ECO": 1155.9,
     "Shikhar": 0
   },
   {
@@ -3087,7 +3373,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 97963.33,
+    "ECO": 103090.63,
     "Shikhar": 0
   },
   {
@@ -3098,7 +3384,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 59167.9,
+    "ECO": 68822.41,
     "Shikhar": 8300.94
   },
   {
@@ -3109,7 +3395,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 867.85,
+    "ECO": 2542.52,
     "Shikhar": 0
   },
   {
@@ -3120,8 +3406,8 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5868.69,
-    "Shikhar": 4696.33
+    "ECO": 11714.21,
+    "Shikhar": 10120.56
   },
   {
     "HUL Code": "HUL-217085D-PAR177",
@@ -3131,8 +3417,8 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 12456.36,
-    "Shikhar": 6651.33
+    "ECO": 23778.29,
+    "Shikhar": 15607.33
   },
   {
     "HUL Code": "HUL-217701D-P7068",
@@ -3153,7 +3439,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 418.6,
+    "ECO": 632.9,
     "Shikhar": 0
   },
   {
@@ -3186,7 +3472,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 3330.26,
+    "ECO": 4663.39,
     "Shikhar": 1285.7
   },
   {
@@ -3212,6 +3498,28 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P22340",
+    "HUL Outlet Name": "Ganesh Store-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Md. Asraf Ashraf",
+    "FnR Beat": "F-BURTOLA RETAIL",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P1006",
+    "HUL Outlet Name": "GANESH STORES(BOW2)-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-BOW STREET(2)_COMM",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR189",
     "HUL Outlet Name": "Ganga Shaw-D-D",
     "Shikhar Onboarding": "YES",
@@ -3219,7 +3527,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 12093.94,
+    "ECO": 12330.86,
     "Shikhar": 1052.64
   },
   {
@@ -3241,8 +3549,8 @@
     "DETS Beat": "D-RAJAKATRA 5",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJA KATRA",
-    "ECO": 432039.56,
-    "Shikhar": 223237.47
+    "ECO": 643857.64,
+    "Shikhar": 435055.55
   },
   {
     "HUL Code": "HUL-217701D-P12280",
@@ -3263,8 +3571,8 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 28161.85,
-    "Shikhar": 11552.79
+    "ECO": 32782.24,
+    "Shikhar": 16173.18
   },
   {
     "HUL Code": "HUL-217701D-P10112",
@@ -3285,7 +3593,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 746.48,
+    "ECO": 959.67,
     "Shikhar": 0
   },
   {
@@ -3351,7 +3659,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 1500.01,
+    "ECO": 1909.08,
     "Shikhar": 0
   },
   {
@@ -3373,7 +3681,7 @@
     "DETS Beat": "D-RAM MANDIR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3485.59,
+    "ECO": 3227.52,
     "Shikhar": -507.34
   },
   {
@@ -3395,7 +3703,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 6939.47,
+    "ECO": 8733.03,
     "Shikhar": 1736.66
   },
   {
@@ -3439,7 +3747,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 7542.34,
+    "ECO": 8286.66,
     "Shikhar": 2603.65
   },
   {
@@ -3461,7 +3769,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 11116.59,
+    "ECO": 12199.92,
     "Shikhar": 9321.89
   },
   {
@@ -3516,7 +3824,7 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 32089.52,
+    "ECO": 33841.9,
     "Shikhar": 2111.1
   },
   {
@@ -3527,7 +3835,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 6837.89,
+    "ECO": 8656.1,
     "Shikhar": 676.61
   },
   {
@@ -3538,7 +3846,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 2675.95,
+    "ECO": 3797.26,
     "Shikhar": 0
   },
   {
@@ -3571,7 +3879,7 @@
     "DETS Beat": "D-DALPATTY",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 27006.99,
+    "ECO": 27221.3,
     "Shikhar": 11611.61
   },
   {
@@ -3637,7 +3945,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 2331.39,
+    "ECO": 2576.48,
     "Shikhar": 0
   },
   {
@@ -3670,7 +3978,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 22306.39,
+    "ECO": 23392.67,
     "Shikhar": 3456.14
   },
   {
@@ -3681,7 +3989,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 5481.04,
+    "ECO": 5756.73,
     "Shikhar": 1427.91
   },
   {
@@ -3714,7 +4022,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 432.65,
+    "ECO": 665.06,
     "Shikhar": 0
   },
   {
@@ -3725,7 +4033,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3541.16,
+    "ECO": 3848.7,
     "Shikhar": 0
   },
   {
@@ -3736,7 +4044,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 2204.13,
+    "ECO": 2649.28,
     "Shikhar": -466.43
   },
   {
@@ -3747,8 +4055,8 @@
     "DETS Beat": "D-CANNING STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 205548.38,
-    "Shikhar": 0
+    "ECO": 229068.56,
+    "Shikhar": 23520.19
   },
   {
     "HUL Code": "HUL-217085D-P3516",
@@ -3758,7 +4066,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3169.83,
+    "ECO": 4000.98,
     "Shikhar": 1971.61
   },
   {
@@ -3791,7 +4099,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 6882.11,
+    "ECO": 7473.51,
     "Shikhar": 2412.28
   },
   {
@@ -3802,7 +4110,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 5179.41,
+    "ECO": 5454.43,
     "Shikhar": 1077.69
   },
   {
@@ -3813,8 +4121,19 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 9465.89,
+    "ECO": 11553.57,
     "Shikhar": 1184.45
+  },
+  {
+    "HUL Code": "HUL-217701D-P13200",
+    "HUL Outlet Name": "HARI PRASAD YADAV-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-216788P1145",
@@ -3824,7 +4143,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1808.45,
+    "ECO": 2861.09,
     "Shikhar": 0
   },
   {
@@ -3835,7 +4154,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 3613.84,
+    "ECO": 3845.17,
     "Shikhar": -157.29
   },
   {
@@ -3857,7 +4176,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1726.93,
+    "ECO": 6172.12,
     "Shikhar": 0
   },
   {
@@ -3868,7 +4187,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 11444.81,
+    "ECO": 12298.85,
     "Shikhar": 3301.07
   },
   {
@@ -3890,7 +4209,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 636.37,
+    "ECO": 890.92,
     "Shikhar": 0
   },
   {
@@ -3912,7 +4231,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 8123.45,
+    "ECO": 8583.56,
     "Shikhar": -229.6
   },
   {
@@ -3971,6 +4290,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701P-P4309",
+    "HUL Outlet Name": "INDRADHONI-P",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-B K PAUL",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P11072",
     "HUL Outlet Name": "ISHA STORES-D",
     "Shikhar Onboarding": "YES",
@@ -4000,7 +4330,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 815.09,
+    "ECO": 1062.36,
     "Shikhar": 0
   },
   {
@@ -4011,7 +4341,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 190.18,
+    "ECO": 800,
     "Shikhar": 0
   },
   {
@@ -4022,8 +4352,8 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 337.58,
-    "Shikhar": 61.21
+    "ECO": 1558.9,
+    "Shikhar": 1282.54
   },
   {
     "HUL Code": "HUL-217701D-P17488",
@@ -4088,7 +4418,18 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 2018.21,
+    "ECO": 2224.25,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P14198",
+    "HUL Outlet Name": "Jagannath Agency-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-R.D.SARKAR_COMM",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F- R.D.SARKAR STREET",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -4143,7 +4484,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 14440.44,
+    "ECO": 20289.59,
     "Shikhar": 1858.02
   },
   {
@@ -4198,7 +4539,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1695.82,
+    "ECO": 2717.69,
     "Shikhar": 0
   },
   {
@@ -4209,8 +4550,19 @@
     "DETS Beat": "D-KALAKAR STREET",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 25801.83,
+    "ECO": 30028.91,
     "Shikhar": 5231
+  },
+  {
+    "HUL Code": "HUL-217701D-P17513",
+    "HUL Outlet Name": "JAI MAA DURGA STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-NIMTALA STREET 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085D-PAR89",
@@ -4264,7 +4616,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 2868.83,
+    "ECO": 3482.47,
     "Shikhar": 0
   },
   {
@@ -4308,7 +4660,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 3291.15,
+    "ECO": 3541.49,
     "Shikhar": -27.52
   },
   {
@@ -4319,7 +4671,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 7248.61,
+    "ECO": 8686.89,
     "Shikhar": 0
   },
   {
@@ -4352,7 +4704,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 3565.43,
+    "ECO": 3986.9,
     "Shikhar": 0
   },
   {
@@ -4363,7 +4715,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 94146.96,
+    "ECO": 96074.61,
     "Shikhar": 70956.53
   },
   {
@@ -4374,7 +4726,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3788.33,
+    "ECO": 4175.9,
     "Shikhar": 609.81
   },
   {
@@ -4407,18 +4759,18 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1523.4,
+    "ECO": 2321.71,
     "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P22155",
     "HUL Outlet Name": "Jalpan-D",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": "Sourav Das",
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5832.75,
+    "ECO": 7359.24,
     "Shikhar": 1271.35
   },
   {
@@ -4429,7 +4781,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 11841.45,
+    "ECO": 15104.21,
     "Shikhar": 0
   },
   {
@@ -4440,7 +4792,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 517.22,
+    "ECO": 285.71,
     "Shikhar": 0
   },
   {
@@ -4473,7 +4825,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 14611.88,
+    "ECO": 14315.31,
     "Shikhar": 7293.58
   },
   {
@@ -4517,7 +4869,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 934.09,
+    "ECO": 1368.25,
     "Shikhar": 0
   },
   {
@@ -4528,7 +4880,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 6930.99,
+    "ECO": 7477.18,
     "Shikhar": 0
   },
   {
@@ -4539,7 +4891,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 44970.07,
+    "ECO": 51457.45,
     "Shikhar": 12775.78
   },
   {
@@ -4561,7 +4913,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 7979.27,
+    "ECO": 8661.4,
     "Shikhar": 1285.7
   },
   {
@@ -4587,6 +4939,17 @@
     "Shikhar": 1578.44
   },
   {
+    "HUL Code": "HUL-217085D-PAR303",
+    "HUL Outlet Name": "JHUN JHUN WALA STORES-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P7108",
     "HUL Outlet Name": "JITENDAR STORES-D",
     "Shikhar Onboarding": "YES",
@@ -4605,7 +4968,18 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 4470.55,
+    "ECO": 5977.84,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P11582",
+    "HUL Outlet Name": "JOY ENTERPRISE-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -4627,7 +5001,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 304.62,
+    "ECO": 598.57,
     "Shikhar": 0
   },
   {
@@ -4638,7 +5012,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2061.31,
+    "ECO": 2446.18,
     "Shikhar": 1127.21
   },
   {
@@ -4671,18 +5045,18 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 12540.23,
+    "ECO": 15402.66,
     "Shikhar": 3669.07
   },
   {
     "HUL Code": "HUL-217701D-P14802",
     "HUL Outlet Name": "Joy Maa Santoshi Bhander-D",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": "Anjan Sarkar",
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 18067.48,
+    "ECO": 18359.76,
     "Shikhar": 0
   },
   {
@@ -4715,7 +5089,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 4062.25,
+    "ECO": 5348.43,
     "Shikhar": 1088.73
   },
   {
@@ -4737,7 +5111,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 3604.76,
+    "ECO": 3850.94,
     "Shikhar": 2464.14
   },
   {
@@ -4748,7 +5122,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 8020.24,
+    "ECO": 10299.89,
     "Shikhar": 4307.41
   },
   {
@@ -4759,7 +5133,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 1464.13,
+    "ECO": 1687.28,
     "Shikhar": 0
   },
   {
@@ -4781,7 +5155,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 40915.75,
+    "ECO": 42744.47,
     "Shikhar": 16383.79
   },
   {
@@ -4792,7 +5166,7 @@
     "DETS Beat": "D-RAJAKATRA - 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 43659.36,
+    "ECO": 120418.63,
     "Shikhar": 0
   },
   {
@@ -4814,8 +5188,8 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 24067.86,
-    "Shikhar": 8875.22
+    "ECO": 29518.18,
+    "Shikhar": 9441.99
   },
   {
     "HUL Code": "HUL-217085D-PAR267",
@@ -4825,7 +5199,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3046.75,
+    "ECO": 3683.81,
     "Shikhar": -212.8
   },
   {
@@ -4880,7 +5254,7 @@
     "DETS Beat": "D-DALPATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 19549.88,
+    "ECO": 19764.18,
     "Shikhar": 17747.36
   },
   {
@@ -4891,7 +5265,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 15429.06,
+    "ECO": 15741.27,
     "Shikhar": -113.64
   },
   {
@@ -4902,7 +5276,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 23312.41,
+    "ECO": 27218.91,
     "Shikhar": 1113.03
   },
   {
@@ -4913,7 +5287,18 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 380198.23,
+    "ECO": 459801.25,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P11495",
+    "HUL Outlet Name": "K.D.PRASAD-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -4946,7 +5331,7 @@
     "DETS Beat": "D-BAGREE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 15819.66,
+    "ECO": 32047.13,
     "Shikhar": 3666.66
   },
   {
@@ -4990,7 +5375,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4058.55,
+    "ECO": 3843.75,
     "Shikhar": 0
   },
   {
@@ -5012,7 +5397,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 7562.18,
+    "ECO": 9557.55,
     "Shikhar": 1285.7
   },
   {
@@ -5045,7 +5430,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 27812.03,
+    "ECO": 28241.2,
     "Shikhar": 0
   },
   {
@@ -5078,7 +5463,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 209060.56,
+    "ECO": 215981.09,
     "Shikhar": 173601.35
   },
   {
@@ -5122,7 +5507,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 3554.52,
+    "ECO": 3593.81,
     "Shikhar": -9.09
   },
   {
@@ -5144,7 +5529,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2928.96,
+    "ECO": 3614.62,
     "Shikhar": 0
   },
   {
@@ -5199,8 +5584,8 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5794.2,
-    "Shikhar": 1481.49
+    "ECO": 9186.63,
+    "Shikhar": 4873.92
   },
   {
     "HUL Code": "HUL-217701D-P16338",
@@ -5210,7 +5595,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 835.4,
+    "ECO": 1143.21,
     "Shikhar": 0
   },
   {
@@ -5232,7 +5617,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 60670.61,
+    "ECO": 62116.68,
     "Shikhar": 18105.67
   },
   {
@@ -5243,7 +5628,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 8326.56,
+    "ECO": 9643.5,
     "Shikhar": 1381.07
   },
   {
@@ -5265,7 +5650,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 690.11,
+    "ECO": 925.11,
     "Shikhar": 0
   },
   {
@@ -5287,7 +5672,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 75189.27,
+    "ECO": 76936.49,
     "Shikhar": 44456.42
   },
   {
@@ -5320,7 +5705,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1211.36,
+    "ECO": 2521.13,
     "Shikhar": 0
   },
   {
@@ -5331,7 +5716,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 5086.9,
+    "ECO": 5084.28,
     "Shikhar": 1045.06
   },
   {
@@ -5364,7 +5749,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 286.71,
+    "ECO": 641.58,
     "Shikhar": 0
   },
   {
@@ -5375,8 +5760,19 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 8949.5,
+    "ECO": 12364.56,
     "Shikhar": 2461.44
+  },
+  {
+    "HUL Code": "HUL-217701D-P6262",
+    "HUL Outlet Name": "KHANDELWAL TRADERS-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Md. Asraf Ashraf",
+    "FnR Beat": "F-RAJAKATRA 3",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P14386",
@@ -5386,7 +5782,18 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 3315.95,
+    "ECO": 5127.11,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085P-P139",
+    "HUL Outlet Name": "KHLID STORES-P-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-PHEARS LANE",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-PHEARS LANE",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -5397,7 +5804,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 5200.81,
+    "ECO": 5784.94,
     "Shikhar": 1104.02
   },
   {
@@ -5419,8 +5826,8 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1635780.69,
-    "Shikhar": 330105.6
+    "ECO": 2048412.69,
+    "Shikhar": 742737.6
   },
   {
     "HUL Code": "WB70000102034",
@@ -5441,7 +5848,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 37215.27,
+    "ECO": 46876.21,
     "Shikhar": 16408.12
   },
   {
@@ -5485,7 +5892,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 6015.71,
+    "ECO": 6785.75,
     "Shikhar": 0
   },
   {
@@ -5518,7 +5925,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 253.78,
+    "ECO": 1714.48,
     "Shikhar": 0
   },
   {
@@ -5529,7 +5936,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-GUR PATTY",
-    "ECO": 31103.4,
+    "ECO": 44314.47,
     "Shikhar": 0
   },
   {
@@ -5540,7 +5947,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 4589.22,
+    "ECO": 5034.67,
     "Shikhar": 0
   },
   {
@@ -5573,7 +5980,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2133.59,
+    "ECO": 3176.49,
     "Shikhar": 0
   },
   {
@@ -5639,7 +6046,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 2986.91,
+    "ECO": 3825.11,
     "Shikhar": -1565.99
   },
   {
@@ -5650,7 +6057,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 562.86,
+    "ECO": 936.05,
     "Shikhar": -411.88
   },
   {
@@ -5673,6 +6080,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 13816.24,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P953",
+    "HUL Outlet Name": "L I C EMPLOYEES CO-OP ST.-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-BOW STREET(2)_COMM",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-BOW STREET 2",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -5705,7 +6123,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 5187.08,
+    "ECO": 5845,
     "Shikhar": 1714.37
   },
   {
@@ -5749,7 +6167,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 9578.89,
+    "ECO": 10853.56,
     "Shikhar": 0
   },
   {
@@ -5760,7 +6178,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 1142.87,
+    "ECO": 1394.02,
     "Shikhar": 0
   },
   {
@@ -5782,7 +6200,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": -9316.64,
+    "ECO": -7509.68,
     "Shikhar": -11513.86
   },
   {
@@ -5804,7 +6222,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3581.15,
+    "ECO": 3888.19,
     "Shikhar": 1127.89
   },
   {
@@ -5815,7 +6233,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 490.91,
+    "ECO": 716.04,
     "Shikhar": 0
   },
   {
@@ -5826,7 +6244,7 @@
     "DETS Beat": "D-GUR PATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 142384.01,
+    "ECO": 145433.59,
     "Shikhar": 57780.19
   },
   {
@@ -5837,7 +6255,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 16540.08,
+    "ECO": 18899.48,
     "Shikhar": 2224.16
   },
   {
@@ -5848,7 +6266,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1689.1,
+    "ECO": 2286.24,
     "Shikhar": 0
   },
   {
@@ -5859,7 +6277,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 25239.46,
+    "ECO": 31231.59,
     "Shikhar": 3084.79
   },
   {
@@ -5870,7 +6288,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4522.99,
+    "ECO": 4759.35,
     "Shikhar": 0
   },
   {
@@ -5903,7 +6321,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 7428.6,
+    "ECO": 10056.7,
     "Shikhar": 0
   },
   {
@@ -5925,7 +6343,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1765.17,
+    "ECO": 1991.73,
     "Shikhar": 0
   },
   {
@@ -5936,7 +6354,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- NIMTALA GHAT STREET",
-    "ECO": 8511.19,
+    "ECO": 9038.42,
     "Shikhar": 7276.43
   },
   {
@@ -5991,8 +6409,8 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3209.95,
-    "Shikhar": 1057.68
+    "ECO": 3760.43,
+    "Shikhar": 1608.16
   },
   {
     "HUL Code": "HUL-216252F-1607",
@@ -6024,7 +6442,7 @@
     "DETS Beat": "D-RAJAKATRA 5",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJA KATRA",
-    "ECO": 4724.54,
+    "ECO": 4971.81,
     "Shikhar": 0
   },
   {
@@ -6057,7 +6475,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1710.34,
+    "ECO": 1469.11,
     "Shikhar": 0
   },
   {
@@ -6079,7 +6497,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 61728.09,
+    "ECO": 74433.71,
     "Shikhar": 24815.41
   },
   {
@@ -6090,8 +6508,8 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 6428.4,
-    "Shikhar": 0
+    "ECO": 12717.39,
+    "Shikhar": 2464.02
   },
   {
     "HUL Code": "HUL-217701D-P6953",
@@ -6112,7 +6530,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1287.83,
+    "ECO": 3426.28,
     "Shikhar": 642.66
   },
   {
@@ -6127,6 +6545,17 @@
     "Shikhar": 1847.39
   },
   {
+    "HUL Code": "HUL-217701D-P17453",
+    "HUL Outlet Name": "LOKNATH STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR319",
     "HUL Outlet Name": "Lucky Variety Stores-D-D",
     "Shikhar Onboarding": "YES",
@@ -6134,7 +6563,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 26399.8,
+    "ECO": 32075.57,
     "Shikhar": 12730.37
   },
   {
@@ -6149,6 +6578,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P17468",
+    "HUL Outlet Name": "M C SETH OTHERS-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-M.G.ROAD",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P13695",
     "HUL Outlet Name": "M CHOWDHURY-D",
     "Shikhar Onboarding": "NO",
@@ -6156,7 +6596,7 @@
     "DETS Beat": "D-B. M  STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2418.27,
+    "ECO": 2754.4,
     "Shikhar": 0
   },
   {
@@ -6182,6 +6622,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P11642",
+    "HUL Outlet Name": "M D SALIM-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D-COLOOTOLA PHEARS LANE",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR324",
     "HUL Outlet Name": "M H Stores-D-D",
     "Shikhar Onboarding": "YES",
@@ -6189,8 +6640,8 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 6245.76,
-    "Shikhar": 0
+    "ECO": 7376.94,
+    "Shikhar": 1131.18
   },
   {
     "HUL Code": "HUL-217701D-P17143",
@@ -6211,7 +6662,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 6068.48,
+    "ECO": 5727.2,
     "Shikhar": 2634.17
   },
   {
@@ -6233,7 +6684,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2776.95,
+    "ECO": 3236.8,
     "Shikhar": 2142.51
   },
   {
@@ -6244,7 +6695,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 235,
+    "ECO": 484.12,
     "Shikhar": 0
   },
   {
@@ -6255,7 +6706,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 914.97,
+    "ECO": 1141.92,
     "Shikhar": 0
   },
   {
@@ -6266,7 +6717,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 826.29,
+    "ECO": 1053.24,
     "Shikhar": 0
   },
   {
@@ -6303,6 +6754,17 @@
     "Shikhar": 28035.36
   },
   {
+    "HUL Code": "HUL-217701D-P17208",
+    "HUL Outlet Name": "M.H.Stores-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-PHEARS LANE",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-PHEARS LANE",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701F-P4323",
     "HUL Outlet Name": "M.M.KHAN-F",
     "Shikhar Onboarding": "YES",
@@ -6321,7 +6783,7 @@
     "DETS Beat": "D-CANNING STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 17129.28,
+    "ECO": 17383.83,
     "Shikhar": 0
   },
   {
@@ -6332,7 +6794,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 17896.74,
+    "ECO": 36755.36,
     "Shikhar": 9766.08
   },
   {
@@ -6343,7 +6805,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-DURGA CHARAN MITRA STREET",
-    "ECO": 5276.87,
+    "ECO": 5247.77,
     "Shikhar": 1167.05
   },
   {
@@ -6365,7 +6827,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 327.1,
+    "ECO": 1047.51,
     "Shikhar": 0
   },
   {
@@ -6409,7 +6871,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5418.21,
+    "ECO": 6001.36,
     "Shikhar": -305.45
   },
   {
@@ -6453,7 +6915,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 3341.68,
+    "ECO": 4717.53,
     "Shikhar": 0
   },
   {
@@ -6475,7 +6937,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 1821.84,
+    "ECO": 1780.93,
     "Shikhar": 0
   },
   {
@@ -6486,7 +6948,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 4072.24,
+    "ECO": 4381.33,
     "Shikhar": 519.18
   },
   {
@@ -6541,7 +7003,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 7281.17,
+    "ECO": 8484.61,
     "Shikhar": 0
   },
   {
@@ -6552,7 +7014,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2576.27,
+    "ECO": 2797.79,
     "Shikhar": 0
   },
   {
@@ -6563,7 +7025,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 21665.71,
+    "ECO": 22470.14,
     "Shikhar": 1778.29
   },
   {
@@ -6585,7 +7047,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 814.39,
+    "ECO": 1061.66,
     "Shikhar": 0
   },
   {
@@ -6611,6 +7073,17 @@
     "Shikhar": 1069.41
   },
   {
+    "HUL Code": "HUL-217701D-P17845",
+    "HUL Outlet Name": "Maa Manasha Enterprise-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Kakali Saha",
+    "FnR Beat": "F-R D STREET",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P10792",
     "HUL Outlet Name": "MAA SANTOSHI BHANDER-D",
     "Shikhar Onboarding": "YES",
@@ -6618,8 +7091,8 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 48339.35,
-    "Shikhar": 28143.71
+    "ECO": 102997,
+    "Shikhar": 34138.55
   },
   {
     "HUL Code": "HUL-217701D-P11510",
@@ -6640,7 +7113,7 @@
     "DETS Beat": "D- D.C. M. STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-DURGA CHARAN MITRA STREET",
-    "ECO": 4741.59,
+    "ECO": 5287.15,
     "Shikhar": 10.69
   },
   {
@@ -6651,8 +7124,8 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 41816.8,
-    "Shikhar": 28599.92
+    "ECO": 57280.2,
+    "Shikhar": 44063.33
   },
   {
     "HUL Code": "HUL-217701D-P9516",
@@ -6673,7 +7146,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 5350.47,
+    "ECO": 6952.52,
     "Shikhar": 0
   },
   {
@@ -6695,7 +7168,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 621.49,
+    "ECO": 1212.4,
     "Shikhar": 0
   },
   {
@@ -6706,7 +7179,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 19872.73,
+    "ECO": 19953.86,
     "Shikhar": 0
   },
   {
@@ -6717,7 +7190,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 8865.52,
+    "ECO": 10521.39,
     "Shikhar": 2201.76
   },
   {
@@ -6772,8 +7245,8 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 6334.45,
-    "Shikhar": 3964.17
+    "ECO": 10781.19,
+    "Shikhar": 3899.36
   },
   {
     "HUL Code": "HUL-217085D-PAR340",
@@ -6794,7 +7267,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 12907.93,
+    "ECO": 12411.62,
     "Shikhar": 2111.16
   },
   {
@@ -6816,7 +7289,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3006.77,
+    "ECO": 3242.29,
     "Shikhar": 0
   },
   {
@@ -6827,7 +7300,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2482.61,
+    "ECO": 2702.64,
     "Shikhar": 1401.96
   },
   {
@@ -6849,7 +7322,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 11433.56,
+    "ECO": 12247.49,
     "Shikhar": 6249.25
   },
   {
@@ -6860,7 +7333,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 50292.1,
+    "ECO": 50520.39,
     "Shikhar": 0
   },
   {
@@ -6893,7 +7366,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 4526.38,
+    "ECO": 4884.53,
     "Shikhar": 1401.96
   },
   {
@@ -6904,7 +7377,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 5764.41,
+    "ECO": 5977.46,
     "Shikhar": -183.46
   },
   {
@@ -6919,6 +7392,28 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-PAR358",
+    "HUL Outlet Name": "Mahaprabhu Stores-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-M.G.ROAD",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P16663",
+    "HUL Outlet Name": "MAHATMA COMPANY 1-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085P-P3505",
     "HUL Outlet Name": "MAHENDR ST-D",
     "Shikhar Onboarding": "YES",
@@ -6926,7 +7421,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 5715.65,
+    "ECO": 6924.11,
     "Shikhar": 1285.7
   },
   {
@@ -6981,7 +7476,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 9992.73,
+    "ECO": 11996.23,
     "Shikhar": 1714.37
   },
   {
@@ -6992,7 +7487,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 2110.51,
+    "ECO": 2858.1,
     "Shikhar": -315.92
   },
   {
@@ -7025,7 +7520,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJAKATRA 3",
-    "ECO": 7545.44,
+    "ECO": 7957.48,
     "Shikhar": 3997.59
   },
   {
@@ -7038,6 +7533,17 @@
     "FnR Beat": "F-HASTINGS EXTRA",
     "ECO": 6042.07,
     "Shikhar": 1120.73
+  },
+  {
+    "HUL Code": "HUL-217701D-P16101",
+    "HUL Outlet Name": "Mangal shaw-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P12630",
@@ -7080,7 +7586,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5773.31,
+    "ECO": 8140.4,
     "Shikhar": 1123.13
   },
   {
@@ -7135,7 +7641,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2371.64,
+    "ECO": 2626.19,
     "Shikhar": 0
   },
   {
@@ -7157,7 +7663,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4814.45,
+    "ECO": 7826.17,
     "Shikhar": 0
   },
   {
@@ -7201,8 +7707,8 @@
     "DETS Beat": "",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 7479.71,
-    "Shikhar": 4259.33
+    "ECO": 9599.61,
+    "Shikhar": 4120.44
   },
   {
     "HUL Code": "HUL-217085D-PAR370",
@@ -7212,7 +7718,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3270.07,
+    "ECO": 3511.05,
     "Shikhar": 0
   },
   {
@@ -7227,6 +7733,28 @@
     "Shikhar": 3620.91
   },
   {
+    "HUL Code": "HUL-217701D-P13735",
+    "HUL Outlet Name": "MATRI BHANDER-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-D.C.M STREET",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P17058",
+    "HUL Outlet Name": "MATRI BHANDER-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR655",
     "HUL Outlet Name": "MAYA STATIONERS.-D-D",
     "Shikhar Onboarding": "YES",
@@ -7234,7 +7762,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 6900.27,
+    "ECO": 8812.64,
     "Shikhar": 1167.84
   },
   {
@@ -7256,7 +7784,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 15990.3,
+    "ECO": 16774.55,
     "Shikhar": 0
   },
   {
@@ -7300,7 +7828,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 9359.87,
+    "ECO": 9310.82,
     "Shikhar": 1244.04
   },
   {
@@ -7311,7 +7839,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 4587.71,
+    "ECO": 5100.52,
     "Shikhar": 1089.51
   },
   {
@@ -7355,7 +7883,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 101.1,
+    "ECO": 442.88,
     "Shikhar": 0
   },
   {
@@ -7366,7 +7894,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 8372.18,
+    "ECO": 9815.6,
     "Shikhar": 1056.95
   },
   {
@@ -7377,7 +7905,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 3121.89,
+    "ECO": 3377.3,
     "Shikhar": -86.96
   },
   {
@@ -7389,6 +7917,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 216.68,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P14300",
+    "HUL Outlet Name": "Md Salim Stores-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-BOW STREET (1)_COMM",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -7410,7 +7949,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1904.31,
+    "ECO": 2267.62,
     "Shikhar": 0
   },
   {
@@ -7432,7 +7971,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 9307.81,
+    "ECO": 12076.99,
     "Shikhar": 1934.74
   },
   {
@@ -7454,7 +7993,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1912.47,
+    "ECO": 2300.65,
     "Shikhar": 0
   },
   {
@@ -7487,7 +8026,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 9071.18,
+    "ECO": 9071.17,
     "Shikhar": 2542.52
   },
   {
@@ -7498,7 +8037,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1767.03,
+    "ECO": 2072.22,
     "Shikhar": 0
   },
   {
@@ -7509,8 +8048,19 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 10460.45,
-    "Shikhar": 10460.45
+    "ECO": 11216.56,
+    "Shikhar": 11216.56
+  },
+  {
+    "HUL Code": "HUL-217701D-P16063",
+    "HUL Outlet Name": "Mina.Stores.-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-KHOTTA BAZAR",
+    "FnR ME Name": "Kakali Saha",
+    "FnR Beat": "F-KHOTTA BAZAR",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P21861",
@@ -7531,7 +8081,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 3188.8,
+    "ECO": 4582.28,
     "Shikhar": 0
   },
   {
@@ -7542,7 +8092,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": -20.23,
+    "ECO": 349.18,
     "Shikhar": 0
   },
   {
@@ -7553,7 +8103,7 @@
     "DETS Beat": "D-RAM MANDIR",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-RAM MANDIR",
-    "ECO": 10244.26,
+    "ECO": 10216.91,
     "Shikhar": 1107.26
   },
   {
@@ -7586,7 +8136,7 @@
     "DETS Beat": "D-RAM MANDIR",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-RAM MANDIR",
-    "ECO": 6192.82,
+    "ECO": 5871.59,
     "Shikhar": 1515.66
   },
   {
@@ -7630,7 +8180,7 @@
     "DETS Beat": "D-PHEARS LANE",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-PHEARS LANE",
-    "ECO": 14398.43,
+    "ECO": 14324.84,
     "Shikhar": 1556.24
   },
   {
@@ -7663,8 +8213,19 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 20373.58,
+    "ECO": 20584.07,
     "Shikhar": 18985.16
+  },
+  {
+    "HUL Code": "HUL-217085D-PAR387",
+    "HUL Outlet Name": "MOITRIBHANDER-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-M G ROAD",
+    "FnR ME Name": "Rajesh Karmakar",
+    "FnR Beat": "F-MECHUA 2",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P17295",
@@ -7762,13 +8323,24 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1235519.22,
-    "Shikhar": 589461.88
+    "ECO": 1320566.82,
+    "Shikhar": 674509.48
   },
   {
     "HUL Code": "HUL-217701D-P17731",
     "HUL Outlet Name": "MS BALAJEE COSMETICS-D",
     "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701P22424",
+    "HUL Outlet Name": "MS DHARA MADICO",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": 0,
     "DETS Beat": "",
     "FnR ME Name": 0,
@@ -7799,6 +8371,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P17128",
+    "HUL Outlet Name": "MUKUL DEB",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D-JORABAGAN ST",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P12165",
     "HUL Outlet Name": "MUKUL DEB RAJAK-D",
     "Shikhar Onboarding": "NO",
@@ -7806,7 +8389,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2588.69,
+    "ECO": 2825.98,
     "Shikhar": 0
   },
   {
@@ -7817,7 +8400,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 50262.75,
+    "ECO": 73404.17,
     "Shikhar": 21595.11
   },
   {
@@ -7839,7 +8422,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-DURGA CHARAN MITRA STREET",
-    "ECO": 3224.78,
+    "ECO": 3684.16,
     "Shikhar": 0
   },
   {
@@ -7872,7 +8455,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 4903.96,
+    "ECO": 6716.64,
     "Shikhar": 1689.87
   },
   {
@@ -7883,7 +8466,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 11864.86,
+    "ECO": 12347.24,
     "Shikhar": 1032.96
   },
   {
@@ -7916,7 +8499,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1142.13,
+    "ECO": 1365.8,
     "Shikhar": 0
   },
   {
@@ -7927,7 +8510,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 79170.98,
+    "ECO": 82355.5,
     "Shikhar": 0
   },
   {
@@ -7960,7 +8543,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2729.59,
+    "ECO": 3025.48,
     "Shikhar": 1464.54
   },
   {
@@ -7993,7 +8576,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3000.25,
+    "ECO": 3794.81,
     "Shikhar": 0
   },
   {
@@ -8015,8 +8598,8 @@
     "DETS Beat": "D-GUR PATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 105727.48,
-    "Shikhar": 44909.44
+    "ECO": 132371.45,
+    "Shikhar": 58323.79
   },
   {
     "HUL Code": "HUL-217701D-P7736",
@@ -8026,8 +8609,8 @@
     "DETS Beat": "D-KALAKAR STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 13890.73,
-    "Shikhar": 865.3
+    "ECO": 17586.43,
+    "Shikhar": 3632.88
   },
   {
     "HUL Code": "WB70000120674",
@@ -8037,7 +8620,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 478.56,
+    "ECO": 713.69,
     "Shikhar": 0
   },
   {
@@ -8048,7 +8631,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 1362.08,
+    "ECO": 1969.14,
     "Shikhar": 0
   },
   {
@@ -8059,7 +8642,7 @@
     "DETS Beat": "D-R.D.SARKAR_COMM",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- R.D.SARKAR STREET",
-    "ECO": 9750.55,
+    "ECO": 8677.55,
     "Shikhar": 1786.08
   },
   {
@@ -8136,7 +8719,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 3024.73,
+    "ECO": 4794.51,
     "Shikhar": 0
   },
   {
@@ -8158,7 +8741,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 10170.19,
+    "ECO": 10814.29,
     "Shikhar": 3916.17
   },
   {
@@ -8180,7 +8763,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 49019.4,
+    "ECO": 49860.55,
     "Shikhar": 45961.49
   },
   {
@@ -8213,7 +8796,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 31386.03,
+    "ECO": 40854.76,
     "Shikhar": 16334.35
   },
   {
@@ -8235,7 +8818,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 3179.16,
+    "ECO": 4437.42,
     "Shikhar": 0
   },
   {
@@ -8279,7 +8862,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 247.97,
+    "ECO": 4229.81,
     "Shikhar": 0
   },
   {
@@ -8290,7 +8873,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 23648.53,
+    "ECO": 28017.55,
     "Shikhar": 0
   },
   {
@@ -8301,7 +8884,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 26980.88,
+    "ECO": 26980.89,
     "Shikhar": 9024.18
   },
   {
@@ -8312,7 +8895,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 21551.9,
+    "ECO": 54207.04,
     "Shikhar": 12707
   },
   {
@@ -8334,7 +8917,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 3120.58,
+    "ECO": 5358.82,
     "Shikhar": 0
   },
   {
@@ -8422,7 +9005,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 13391.64,
+    "ECO": 13769.55,
     "Shikhar": 1616.99
   },
   {
@@ -8448,6 +9031,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P17012",
+    "HUL Outlet Name": "NEW SOVABAZAR LAUNDRY-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-M M TALA_COMM",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P11878",
     "HUL Outlet Name": "NEW TAJ TEA CENTRE-D",
     "Shikhar Onboarding": "NO",
@@ -8466,7 +9060,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 503.5,
+    "ECO": 1238.22,
     "Shikhar": 0
   },
   {
@@ -8488,7 +9082,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3468.23,
+    "ECO": 3682.04,
     "Shikhar": 0
   },
   {
@@ -8499,7 +9093,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 943.33,
+    "ECO": 1703.63,
     "Shikhar": 0
   },
   {
@@ -8521,7 +9115,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 29572.65,
+    "ECO": 31752.47,
     "Shikhar": 9416.13
   },
   {
@@ -8532,7 +9126,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 5359.74,
+    "ECO": 7897.44,
     "Shikhar": 2246.42
   },
   {
@@ -8554,7 +9148,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 85016.55,
+    "ECO": 85532.5,
     "Shikhar": 0
   },
   {
@@ -8565,7 +9159,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3464.14,
+    "ECO": 4633.38,
     "Shikhar": 988.79
   },
   {
@@ -8609,7 +9203,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2233.07,
+    "ECO": 2487.62,
     "Shikhar": 0
   },
   {
@@ -8631,7 +9225,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 4104.56,
+    "ECO": 9302.5,
     "Shikhar": 1301.93
   },
   {
@@ -8642,8 +9236,30 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 13734.26,
+    "ECO": 13964.21,
     "Shikhar": 13280.93
+  },
+  {
+    "HUL Code": "WB70000102032",
+    "HUL Outlet Name": "OLD KALIMATA STORES-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P13160",
+    "HUL Outlet Name": "OM LAKSHMI-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sandip Saha",
+    "DETS Beat": "D-KALAKAR STREET",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P13885",
@@ -8653,7 +9269,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 40682.92,
+    "ECO": 67341.1,
     "Shikhar": 0
   },
   {
@@ -8664,7 +9280,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 2354.77,
+    "ECO": 4134.49,
     "Shikhar": 0
   },
   {
@@ -8675,7 +9291,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1031.49,
+    "ECO": 1252.23,
     "Shikhar": 0
   },
   {
@@ -8708,7 +9324,18 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3017.02,
+    "ECO": 3162.4,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-P1224",
+    "HUL Outlet Name": "P Ghosh-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-HASTINGS",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-HASTINGS EXTRA",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -8741,7 +9368,7 @@
     "DETS Beat": "D-R.D.SARKAR_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 2512.55,
+    "ECO": 2499.92,
     "Shikhar": -329.9
   },
   {
@@ -8752,7 +9379,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 5647,
+    "ECO": 5989.48,
     "Shikhar": 5665.02
   },
   {
@@ -8763,7 +9390,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 20536.1,
+    "ECO": 20771.1,
     "Shikhar": 0
   },
   {
@@ -8796,7 +9423,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 6259.37,
+    "ECO": 6659.14,
     "Shikhar": 5788.46
   },
   {
@@ -8829,7 +9456,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 454.5,
+    "ECO": 689.51,
     "Shikhar": 0
   },
   {
@@ -8851,7 +9478,7 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 30297.75,
+    "ECO": 33504.97,
     "Shikhar": 0
   },
   {
@@ -8895,7 +9522,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 3325.31,
+    "ECO": 3961.72,
     "Shikhar": 682.65
   },
   {
@@ -8917,8 +9544,19 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 15230.04,
+    "ECO": 15673.45,
     "Shikhar": 2469.74
+  },
+  {
+    "HUL Code": "HUL-217701P22425",
+    "HUL Outlet Name": "paramita medical centre",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085D-PAR443",
@@ -8928,7 +9566,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 35100.2,
+    "ECO": 39147.17,
     "Shikhar": 3806.81
   },
   {
@@ -8961,7 +9599,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 447,
+    "ECO": 674.14,
     "Shikhar": 0
   },
   {
@@ -8972,7 +9610,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 1960.17,
+    "ECO": 2494.28,
     "Shikhar": 0
   },
   {
@@ -8983,7 +9621,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 868.65,
+    "ECO": 1141.38,
     "Shikhar": 0
   },
   {
@@ -9038,7 +9676,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 13634.19,
+    "ECO": 13879.41,
     "Shikhar": 0
   },
   {
@@ -9049,7 +9687,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 20921.32,
+    "ECO": 24966.91,
     "Shikhar": 6439.89
   },
   {
@@ -9082,7 +9720,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 19083.25,
+    "ECO": 22888.07,
     "Shikhar": 0
   },
   {
@@ -9093,7 +9731,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 10592.28,
+    "ECO": 11470.25,
     "Shikhar": 659.98
   },
   {
@@ -9115,7 +9753,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 6456.87,
+    "ECO": 6750.95,
     "Shikhar": 2282.58
   },
   {
@@ -9126,8 +9764,8 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1435.45,
-    "Shikhar": 1186.28
+    "ECO": 2903.81,
+    "Shikhar": 2654.65
   },
   {
     "HUL Code": "HUL-217701D-P15393",
@@ -9148,7 +9786,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2348.54,
+    "ECO": 2618.7,
     "Shikhar": 0
   },
   {
@@ -9159,7 +9797,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 8074.46,
+    "ECO": 13882.89,
     "Shikhar": 4439.27
   },
   {
@@ -9170,8 +9808,8 @@
     "DETS Beat": "D-KALAKAR STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 11406.2,
-    "Shikhar": 8266.35
+    "ECO": 14577.9,
+    "Shikhar": 11186.07
   },
   {
     "HUL Code": "WB70000120718",
@@ -9203,7 +9841,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 2713.67,
+    "ECO": 3523.66,
     "Shikhar": 0
   },
   {
@@ -9225,7 +9863,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 5654.38,
+    "ECO": 6216.66,
     "Shikhar": 0
   },
   {
@@ -9236,7 +9874,18 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 453.48,
+    "ECO": 688.48,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P17436",
+    "HUL Outlet Name": "Pravin Store-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -9258,7 +9907,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 6001.63,
+    "ECO": 6431.36,
     "Shikhar": 1402.49
   },
   {
@@ -9280,7 +9929,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 3682.76,
+    "ECO": 3933.35,
     "Shikhar": 0
   },
   {
@@ -9291,7 +9940,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 5971.68,
+    "ECO": 6231.65,
     "Shikhar": 1499.99
   },
   {
@@ -9302,7 +9951,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 218.11,
+    "ECO": 551.89,
     "Shikhar": 0
   },
   {
@@ -9313,7 +9962,7 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3260.63,
+    "ECO": 3465.6,
     "Shikhar": 2627.7
   },
   {
@@ -9357,7 +10006,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 12192.97,
+    "ECO": 14411.75,
     "Shikhar": 4687.8
   },
   {
@@ -9390,7 +10039,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 1212.97,
+    "ECO": 1436.5,
     "Shikhar": 0
   },
   {
@@ -9401,7 +10050,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1651.97,
+    "ECO": 2886.42,
     "Shikhar": 0
   },
   {
@@ -9478,7 +10127,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 2547.45,
+    "ECO": 4299.84,
     "Shikhar": 0
   },
   {
@@ -9489,7 +10138,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 6691.18,
+    "ECO": 8054.96,
     "Shikhar": 1313.85
   },
   {
@@ -9500,7 +10149,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 5240.43,
+    "ECO": 5544.35,
     "Shikhar": 0
   },
   {
@@ -9511,7 +10160,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 6551.36,
+    "ECO": 8297.01,
     "Shikhar": 1366.6
   },
   {
@@ -9522,7 +10171,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1196.44,
+    "ECO": 1443.06,
     "Shikhar": 0
   },
   {
@@ -9533,8 +10182,8 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3369.54,
-    "Shikhar": 1255.37
+    "ECO": 5474.19,
+    "Shikhar": 3360.02
   },
   {
     "HUL Code": "HUL-217701D-P22370",
@@ -9566,8 +10215,8 @@
     "DETS Beat": "D-RAJAKATRA 5",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": -17034.3,
-    "Shikhar": 2184.79
+    "ECO": 61738.77,
+    "Shikhar": 80957.86
   },
   {
     "HUL Code": "HUL-217701D-P17238",
@@ -9588,7 +10237,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 1638.84,
+    "ECO": 2517.8,
     "Shikhar": 0
   },
   {
@@ -9610,7 +10259,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5976.77,
+    "ECO": 6533.13,
     "Shikhar": 1285.7
   },
   {
@@ -9621,7 +10270,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 3485.38,
+    "ECO": 4013.51,
     "Shikhar": 1481.49
   },
   {
@@ -9643,7 +10292,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 6414.6,
+    "ECO": 7198.38,
     "Shikhar": 1371.57
   },
   {
@@ -9676,7 +10325,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 6402.72,
+    "ECO": 7467.03,
     "Shikhar": 1184.45
   },
   {
@@ -9709,18 +10358,18 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 553.49,
+    "ECO": 1267.12,
     "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701P22407",
     "HUL Outlet Name": "Rahul Stores",
-    "Shikhar Onboarding": "YES",
+    "Shikhar Onboarding": "NO",
     "DETS ME Name": "Subir Mondal",
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1591.52,
+    "ECO": 2297.85,
     "Shikhar": 0
   },
   {
@@ -9742,7 +10391,18 @@
     "DETS Beat": "D-RAJAKATRA 5",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJA KATRA",
-    "ECO": 5167.37,
+    "ECO": 5414.64,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P16491",
+    "HUL Outlet Name": "Raj Store-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-HASTINGS",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-INDIA EXCH. PLACE",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -9753,8 +10413,8 @@
     "DETS Beat": "D-GANESH MKT",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 122870.13,
-    "Shikhar": 0
+    "ECO": 454203.44,
+    "Shikhar": 331333.31
   },
   {
     "HUL Code": "HUL-217701D-P15981",
@@ -9808,7 +10468,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 4545.63,
+    "ECO": 4492.28,
     "Shikhar": 0
   },
   {
@@ -9819,7 +10479,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 4754.25,
+    "ECO": 4643.14,
     "Shikhar": 1051.16
   },
   {
@@ -9830,7 +10490,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 9366.45,
+    "ECO": 9613.73,
     "Shikhar": 2138.9
   },
   {
@@ -9841,7 +10501,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 13477.05,
+    "ECO": 16884.11,
     "Shikhar": 2586.59
   },
   {
@@ -9863,8 +10523,8 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 348751.5,
-    "Shikhar": 348751.5
+    "ECO": 1073336.4,
+    "Shikhar": 1073336.4
   },
   {
     "HUL Code": "HUL-217701D-P12899",
@@ -9874,7 +10534,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 623.18,
+    "ECO": 385.79,
     "Shikhar": 0
   },
   {
@@ -9885,7 +10545,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 3174.23,
+    "ECO": 4184.08,
     "Shikhar": 0
   },
   {
@@ -9896,8 +10556,19 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 16955.22,
+    "ECO": 21561.85,
     "Shikhar": 5975.79
+  },
+  {
+    "HUL Code": "WB70000702067",
+    "HUL Outlet Name": "RAJESH TRADING-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P22057",
@@ -9918,7 +10589,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 34952.38,
+    "ECO": 40495.69,
     "Shikhar": 6867.15
   },
   {
@@ -9929,7 +10600,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 4476.61,
+    "ECO": 6142.21,
     "Shikhar": 1926.79
   },
   {
@@ -9962,7 +10633,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 5321.2,
+    "ECO": 5749.18,
     "Shikhar": 1242.26
   },
   {
@@ -9984,7 +10655,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1376.74,
+    "ECO": 3798.58,
     "Shikhar": 0
   },
   {
@@ -9995,7 +10666,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 12522.92,
+    "ECO": 13298.51,
     "Shikhar": 2827.57
   },
   {
@@ -10006,7 +10677,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 4794.53,
+    "ECO": 5452.41,
     "Shikhar": 1075.72
   },
   {
@@ -10032,6 +10703,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-PAR327",
+    "HUL Outlet Name": "RAM KRISHNA BHANDER.-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D- NATUN BAZAR 3",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-NATUNBAZAR 2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701F-P4326",
     "HUL Outlet Name": "RAM LAL SHAW-F",
     "Shikhar Onboarding": "YES",
@@ -10050,8 +10732,8 @@
     "DETS Beat": "D- D.C. M. STREET 2",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 3961.28,
-    "Shikhar": 794.78
+    "ECO": 3906.89,
+    "Shikhar": 1429.24
   },
   {
     "HUL Code": "HUL-217085D-PAR504",
@@ -10061,7 +10743,7 @@
     "DETS Beat": "D-KALAKAR STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 5175.74,
+    "ECO": 7652.6,
     "Shikhar": 2151.66
   },
   {
@@ -10094,7 +10776,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2941.3,
+    "ECO": 3302.61,
     "Shikhar": 0
   },
   {
@@ -10127,7 +10809,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 462.24,
+    "ECO": 669.51,
     "Shikhar": 0
   },
   {
@@ -10160,7 +10842,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 10440,
+    "ECO": 12959.79,
     "Shikhar": 603.32
   },
   {
@@ -10171,7 +10853,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 5144.3,
+    "ECO": 5665.93,
     "Shikhar": 0
   },
   {
@@ -10208,6 +10890,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701P22444",
+    "HUL Outlet Name": "Ranjit Store",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-P1332",
     "HUL Outlet Name": "RANJIT STORES (KHOTTA BZ)-D-D",
     "Shikhar Onboarding": "YES",
@@ -10215,8 +10908,8 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 9321.18,
-    "Shikhar": 2995.3
+    "ECO": 11300.59,
+    "Shikhar": 4974.7
   },
   {
     "HUL Code": "HUL-217432D-R101",
@@ -10237,7 +10930,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 4930.78,
+    "ECO": 5081.77,
     "Shikhar": 1921.9
   },
   {
@@ -10248,7 +10941,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 29746.84,
+    "ECO": 31418.08,
     "Shikhar": 5410.91
   },
   {
@@ -10281,7 +10974,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1392.18,
+    "ECO": 1627.18,
     "Shikhar": 0
   },
   {
@@ -10303,7 +10996,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3005.4,
+    "ECO": 3453.14,
     "Shikhar": 1285.7
   },
   {
@@ -10325,7 +11018,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 423.53,
+    "ECO": 762.84,
     "Shikhar": 0
   },
   {
@@ -10336,7 +11029,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 226.85,
+    "ECO": 523.64,
     "Shikhar": 0
   },
   {
@@ -10380,7 +11073,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 16506.77,
+    "ECO": 19744.32,
     "Shikhar": 10335.55
   },
   {
@@ -10391,7 +11084,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 62990.6,
+    "ECO": 64626.94,
     "Shikhar": 0
   },
   {
@@ -10413,7 +11106,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 5168.27,
+    "ECO": 5838.88,
     "Shikhar": 0
   },
   {
@@ -10435,7 +11128,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2668.62,
+    "ECO": 1911.82,
     "Shikhar": 0
   },
   {
@@ -10457,7 +11150,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 3539.67,
+    "ECO": 4443.4,
     "Shikhar": 857.41
   },
   {
@@ -10468,7 +11161,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 2140.55,
+    "ECO": 2544.36,
     "Shikhar": 0
   },
   {
@@ -10479,7 +11172,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5529.66,
+    "ECO": 7543.38,
     "Shikhar": -111.11
   },
   {
@@ -10512,7 +11205,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2723.85,
+    "ECO": 5285.47,
     "Shikhar": -324.61
   },
   {
@@ -10527,6 +11220,17 @@
     "Shikhar": 10138.66
   },
   {
+    "HUL Code": "HUL-217701D-P16223",
+    "HUL Outlet Name": "S K STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D-KALAKAR STREET 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217085D-PAR529",
     "HUL Outlet Name": "S Laha-D-D",
     "Shikhar Onboarding": "YES",
@@ -10534,7 +11238,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 3693.61,
+    "ECO": 4107.58,
     "Shikhar": 1221.13
   },
   {
@@ -10545,7 +11249,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 2177.99,
+    "ECO": 2393.59,
     "Shikhar": 0
   },
   {
@@ -10589,7 +11293,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 1761.93,
+    "ECO": 2618.22,
     "Shikhar": 0
   },
   {
@@ -10644,7 +11348,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 12622.71,
+    "ECO": 13432.71,
     "Shikhar": 0
   },
   {
@@ -10655,8 +11359,8 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 0,
-    "Shikhar": 0
+    "ECO": 8701.92,
+    "Shikhar": 8701.92
   },
   {
     "HUL Code": "HUL-217085D-P1223",
@@ -10677,7 +11381,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1875.26,
+    "ECO": 2102.42,
     "Shikhar": 0
   },
   {
@@ -10699,8 +11403,8 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 9545.45,
-    "Shikhar": 0
+    "ECO": 20027.3,
+    "Shikhar": 10481.85
   },
   {
     "HUL Code": "WB70000702072",
@@ -10732,7 +11436,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 3745.02,
+    "ECO": 42414.83,
     "Shikhar": 0
   },
   {
@@ -10743,7 +11447,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 2824.66,
+    "ECO": 3950.95,
     "Shikhar": 0
   },
   {
@@ -10765,7 +11469,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 662.43,
+    "ECO": 894.9,
     "Shikhar": 0
   },
   {
@@ -10787,7 +11491,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 4854.98,
+    "ECO": 5482.08,
     "Shikhar": 1401.95
   },
   {
@@ -10809,7 +11513,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 814.39,
+    "ECO": 1061.66,
     "Shikhar": 0
   },
   {
@@ -10820,7 +11524,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 777.16,
+    "ECO": 1104.43,
     "Shikhar": 0
   },
   {
@@ -10831,7 +11535,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 8650.01,
+    "ECO": 9001.13,
     "Shikhar": 989.14
   },
   {
@@ -10853,7 +11557,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 3637.78,
+    "ECO": 4055.9,
     "Shikhar": 1614.15
   },
   {
@@ -10864,7 +11568,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 4964.97,
+    "ECO": 4961.27,
     "Shikhar": -204.55
   },
   {
@@ -10875,8 +11579,8 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4968.67,
-    "Shikhar": 0
+    "ECO": 6154.78,
+    "Shikhar": 1186.1
   },
   {
     "HUL Code": "HUL-217432F-PAR640",
@@ -10897,7 +11601,7 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-GUR PATTY",
-    "ECO": 7847.92,
+    "ECO": 8209.59,
     "Shikhar": 0
   },
   {
@@ -10919,8 +11623,19 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 10659.52,
+    "ECO": 12617.53,
     "Shikhar": 2367.51
+  },
+  {
+    "HUL Code": "HUL-217701D-P16363",
+    "HUL Outlet Name": "Sakil hussien-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-BOW STREET(2)_COMM",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "WB70000102075",
@@ -10952,7 +11667,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 2450.57,
+    "ECO": 2760.85,
     "Shikhar": 566.77
   },
   {
@@ -10974,7 +11689,18 @@
     "DETS Beat": "D-BABU BAZAR 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 7634.01,
+    "ECO": 24926.15,
+    "Shikhar": 17292.14
+  },
+  {
+    "HUL Code": "HUL-217701D-P12964",
+    "HUL Outlet Name": "SAMBHU STORES-P-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11018,7 +11744,18 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 749.01,
+    "ECO": 1111.53,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P21819",
+    "HUL Outlet Name": "Sangam Store-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11029,7 +11766,7 @@
     "DETS Beat": "D-NIMTALA GHAT STREET",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- NIMTALA GHAT STREET",
-    "ECO": 23946.84,
+    "ECO": 24765.23,
     "Shikhar": 2108.6
   },
   {
@@ -11040,7 +11777,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 14557.21,
+    "ECO": 14857.54,
     "Shikhar": 8580.36
   },
   {
@@ -11051,8 +11788,8 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1981.04,
-    "Shikhar": 0
+    "ECO": 2664.78,
+    "Shikhar": 683.74
   },
   {
     "HUL Code": "HUL-217701D-P21518",
@@ -11106,7 +11843,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5358.42,
+    "ECO": 6366.25,
     "Shikhar": 974.58
   },
   {
@@ -11117,7 +11854,18 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 2415.87,
+    "ECO": 3729.72,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P11455",
+    "HUL Outlet Name": "SANKAR STORES-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-B K PAUL",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-B.K.PAUL",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11128,8 +11876,8 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 2934.72,
-    "Shikhar": 628.07
+    "ECO": 3692.11,
+    "Shikhar": 517.76
   },
   {
     "HUL Code": "HUL-217085D-PAR553",
@@ -11139,7 +11887,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 26322.26,
+    "ECO": 31251.04,
     "Shikhar": 7818.25
   },
   {
@@ -11151,6 +11899,28 @@
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
     "ECO": 2917.16,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P21672",
+    "HUL Outlet Name": "Santi Health Corner-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Md. Asraf Ashraf",
+    "FnR Beat": "F-BURTOLA RETAIL",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701F-P4302",
+    "HUL Outlet Name": "SANTI RANJAN DAS-F",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Md. Asraf Ashraf",
+    "FnR Beat": "F-RAJAKATRA 3",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11172,7 +11942,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3577.43,
+    "ECO": 3795.61,
     "Shikhar": 0
   },
   {
@@ -11183,7 +11953,7 @@
     "DETS Beat": "D-RAM MANDIR",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-RAM MANDIR",
-    "ECO": 1485.45,
+    "ECO": 1268.81,
     "Shikhar": 0
   },
   {
@@ -11216,7 +11986,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 465.62,
+    "ECO": 360.03,
     "Shikhar": 0
   },
   {
@@ -11282,7 +12052,18 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 2815.76,
+    "ECO": 3438.15,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P17300",
+    "HUL Outlet Name": "SARKAR Store-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11319,6 +12100,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P15536",
+    "HUL Outlet Name": "Satyam Stores-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-NATUN BAZAR-2",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-NATUNBAZAR 2",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P21609",
     "HUL Outlet Name": "Satyanarayan-D",
     "Shikhar Onboarding": "NO",
@@ -11326,7 +12118,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 825.47,
+    "ECO": 1040.97,
     "Shikhar": 0
   },
   {
@@ -11370,8 +12162,8 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1564.94,
-    "Shikhar": 1495.58
+    "ECO": 2762.38,
+    "Shikhar": 2693.02
   },
   {
     "HUL Code": "HUL-217701D-P9861",
@@ -11403,7 +12195,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 3647.9,
+    "ECO": 4044.43,
     "Shikhar": 1062.98
   },
   {
@@ -11414,7 +12206,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 11844.26,
+    "ECO": 16017.97,
     "Shikhar": 2859.54
   },
   {
@@ -11462,6 +12254,28 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P15127",
+    "HUL Outlet Name": "Shankarstores-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": "Koina Prasad",
+    "FnR Beat": "F-M.G.ROAD",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P13272",
+    "HUL Outlet Name": "SHANTI STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P14952",
     "HUL Outlet Name": "Shanti Stores-D",
     "Shikhar Onboarding": "YES",
@@ -11469,7 +12283,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 2822.1,
+    "ECO": 3099.88,
     "Shikhar": 0
   },
   {
@@ -11491,7 +12305,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 3399.54,
+    "ECO": 4781.13,
     "Shikhar": 0
   },
   {
@@ -11502,7 +12316,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1578.44,
+    "ECO": 2136.32,
     "Shikhar": 0
   },
   {
@@ -11513,7 +12327,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 4047.89,
+    "ECO": 4495.62,
     "Shikhar": 1514.05
   },
   {
@@ -11524,7 +12338,7 @@
     "DETS Beat": "D-BOW STREET (1)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F- BOW STREET  1",
-    "ECO": 4205.32,
+    "ECO": 4599.95,
     "Shikhar": 3149.64
   },
   {
@@ -11546,7 +12360,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- AHIRITOLA STREET",
-    "ECO": 10870.77,
+    "ECO": 16643.88,
     "Shikhar": 5147.28
   },
   {
@@ -11568,7 +12382,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1206.32,
+    "ECO": 1906.19,
     "Shikhar": 0
   },
   {
@@ -11579,7 +12393,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJA KATRA",
-    "ECO": 96490.35,
+    "ECO": 171904.35,
     "Shikhar": 3743.11
   },
   {
@@ -11590,7 +12404,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 4874.04,
+    "ECO": 5076.02,
     "Shikhar": 979.39
   },
   {
@@ -11634,7 +12448,7 @@
     "DETS Beat": "D-B. M  STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1961.31,
+    "ECO": 2683.28,
     "Shikhar": 0
   },
   {
@@ -11645,7 +12459,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 10612.05,
+    "ECO": 11156.41,
     "Shikhar": 4863.66
   },
   {
@@ -11656,7 +12470,7 @@
     "DETS Beat": "D-CHATTUBABU BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-CHATU BABU BAZAR",
-    "ECO": 2099.35,
+    "ECO": 2312.99,
     "Shikhar": 0
   },
   {
@@ -11689,7 +12503,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 842.82,
+    "ECO": 1204.99,
     "Shikhar": 0
   },
   {
@@ -11722,7 +12536,7 @@
     "DETS Beat": "D-CANNING STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 298010.77,
+    "ECO": 307939.47,
     "Shikhar": 1198.46
   },
   {
@@ -11733,7 +12547,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 256736.57,
+    "ECO": 417551.61,
     "Shikhar": 5727.28
   },
   {
@@ -11832,7 +12646,29 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 3229.52,
+    "ECO": 4000.72,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P13630",
+    "HUL Outlet Name": "SHUKLA BROTHERS-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P10992",
+    "HUL Outlet Name": "SHUVAM STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D-BAGBAZAR",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -11854,7 +12690,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3436.08,
+    "ECO": 4425.84,
     "Shikhar": 1061.74
   },
   {
@@ -11891,6 +12727,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P16828",
+    "HUL Outlet Name": "Shyam Stores-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D- D.C. M. STREET 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217432D-S019",
     "HUL Outlet Name": "SHYAM STORES-D-D",
     "Shikhar Onboarding": "NO",
@@ -11898,7 +12745,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 848.6,
+    "ECO": 1062.9,
     "Shikhar": 0
   },
   {
@@ -11909,7 +12756,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 821.21,
+    "ECO": 2294.97,
     "Shikhar": 0
   },
   {
@@ -11964,8 +12811,8 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 3126.56,
-    "Shikhar": -48.25
+    "ECO": 4979.79,
+    "Shikhar": 970.18
   },
   {
     "HUL Code": "WB70000102083",
@@ -11979,6 +12826,17 @@
     "Shikhar": 63710.86
   },
   {
+    "HUL Code": "HUL-217701D-P21987",
+    "HUL Outlet Name": "Shyamjit Maity-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P14892",
     "HUL Outlet Name": "Shyamol Stores-D",
     "Shikhar Onboarding": "YES",
@@ -11986,7 +12844,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1423.53,
+    "ECO": 1857.02,
     "Shikhar": 0
   },
   {
@@ -11997,7 +12855,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 226.06,
+    "ECO": 491.42,
     "Shikhar": 0
   },
   {
@@ -12063,7 +12921,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 3994.79,
+    "ECO": 5479.42,
     "Shikhar": 1197.42
   },
   {
@@ -12096,8 +12954,8 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 29105.4,
-    "Shikhar": 17853.29
+    "ECO": 31640.97,
+    "Shikhar": 20110.92
   },
   {
     "HUL Code": "HUL-217701D-P17355",
@@ -12107,8 +12965,19 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 22046.93,
+    "ECO": 22292.63,
     "Shikhar": 16531.61
+  },
+  {
+    "HUL Code": "HUL-217701D-P16243",
+    "HUL Outlet Name": "Sk Raja-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "S K Islam",
+    "DETS Beat": "D-PHEARS LANE",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217085D-PAR522",
@@ -12118,7 +12987,7 @@
     "DETS Beat": "D-D C MITRA STREET",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 22920.81,
+    "ECO": 31663.96,
     "Shikhar": 7851.07
   },
   {
@@ -12129,8 +12998,19 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 4928.03,
+    "ECO": 5939.05,
     "Shikhar": 1265.58
+  },
+  {
+    "HUL Code": "HUL-217701P22419",
+    "HUL Outlet Name": "Sohan Medical Stores",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P21994",
@@ -12162,7 +13042,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 13040.86,
+    "ECO": 13852.44,
     "Shikhar": 2862.8
   },
   {
@@ -12184,7 +13064,7 @@
     "DETS Beat": "D-NATUN BAZAR-2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1293.07,
+    "ECO": 1890.21,
     "Shikhar": 0
   },
   {
@@ -12206,8 +13086,8 @@
     "DETS Beat": "D-NIMTALA GHAT STREET",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 5450.55,
-    "Shikhar": 1802
+    "ECO": 7418.07,
+    "Shikhar": 3769.52
   },
   {
     "HUL Code": "HUL-217085D-PAR603",
@@ -12250,7 +13130,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 21492.94,
+    "ECO": 21815.04,
     "Shikhar": 3589.55
   },
   {
@@ -12261,7 +13141,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 7323.1,
+    "ECO": 7712.11,
     "Shikhar": 1072.24
   },
   {
@@ -12283,7 +13163,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 2390.78,
+    "ECO": 3354.08,
     "Shikhar": 0
   },
   {
@@ -12294,7 +13174,7 @@
     "DETS Beat": "D-RAM MANDIR",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1609.61,
+    "ECO": 1277.79,
     "Shikhar": 0
   },
   {
@@ -12305,7 +13185,7 @@
     "DETS Beat": "D-M M TOLA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-M.M.TOLA 2",
-    "ECO": 3071.59,
+    "ECO": 3524.71,
     "Shikhar": 0
   },
   {
@@ -12327,7 +13207,7 @@
     "DETS Beat": "D-KALAKAR STREET 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3920.35,
+    "ECO": 4213.37,
     "Shikhar": 2763.64
   },
   {
@@ -12349,7 +13229,7 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 875.25,
+    "ECO": 1093.11,
     "Shikhar": 0
   },
   {
@@ -12371,7 +13251,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 3473.43,
+    "ECO": 3355.56,
     "Shikhar": 1936.49
   },
   {
@@ -12382,7 +13262,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 2383.82,
+    "ECO": 4896.73,
     "Shikhar": 0
   },
   {
@@ -12393,8 +13273,8 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 4702.3,
-    "Shikhar": 0
+    "ECO": 5708.85,
+    "Shikhar": 1048.22
   },
   {
     "HUL Code": "HUL-217701D-P17325",
@@ -12404,7 +13284,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 799.2,
+    "ECO": 2063.63,
     "Shikhar": 0
   },
   {
@@ -12448,7 +13328,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 10887.1,
+    "ECO": 12561.8,
     "Shikhar": 4226.05
   },
   {
@@ -12460,6 +13340,17 @@
     "FnR ME Name": 0,
     "FnR Beat": "",
     "ECO": 1808.8,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P4312",
+    "HUL Outlet Name": "SREE SANTOSHI STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Subir Mondal",
+    "DETS Beat": "D-NATUN BAZAR-1",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -12481,7 +13372,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1168.49,
+    "ECO": 1422.23,
     "Shikhar": 0
   },
   {
@@ -12492,7 +13383,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 8749.18,
+    "ECO": 20404.39,
     "Shikhar": 5519.45
   },
   {
@@ -12514,7 +13405,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-MECHUA 2",
-    "ECO": 11265.96,
+    "ECO": 13434.36,
     "Shikhar": 1184.94
   },
   {
@@ -12602,8 +13493,8 @@
     "DETS Beat": "D-RAJAKATRA - 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5971.84,
-    "Shikhar": 3975.98
+    "ECO": 21122.5,
+    "Shikhar": 19126.64
   },
   {
     "HUL Code": "HUL-217701D-P22333",
@@ -12646,7 +13537,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 711.67,
+    "ECO": 938.22,
     "Shikhar": 0
   },
   {
@@ -12657,7 +13548,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 3487.82,
+    "ECO": 4311.8,
     "Shikhar": 0
   },
   {
@@ -12668,7 +13559,7 @@
     "DETS Beat": "D-RAJAKATRA - 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 27750.61,
+    "ECO": 27997.88,
     "Shikhar": 0
   },
   {
@@ -12679,7 +13570,7 @@
     "DETS Beat": "D-MECHUA 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 6171.15,
+    "ECO": 7862.87,
     "Shikhar": 3019.58
   },
   {
@@ -12701,7 +13592,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1483.7,
+    "ECO": 1687.91,
     "Shikhar": 0
   },
   {
@@ -12712,7 +13603,7 @@
     "DETS Beat": "D-BAGBAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-BAG BAZAR",
-    "ECO": 2904.56,
+    "ECO": 3273.08,
     "Shikhar": 0
   },
   {
@@ -12727,6 +13618,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P13185",
+    "HUL Outlet Name": "STAR TREADERS-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P21462",
     "HUL Outlet Name": "STREET FOOD CORNER-D",
     "Shikhar Onboarding": "NO",
@@ -12734,7 +13636,7 @@
     "DETS Beat": "D-AHARITOLA",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1273.99,
+    "ECO": 1532.93,
     "Shikhar": 0
   },
   {
@@ -12767,7 +13669,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 10177.67,
+    "ECO": 11278.53,
     "Shikhar": 3954.75
   },
   {
@@ -12789,7 +13691,7 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 20339.19,
+    "ECO": 34739.33,
     "Shikhar": 0
   },
   {
@@ -12811,7 +13713,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-DAL PATTY",
-    "ECO": 5162.48,
+    "ECO": 5802.3,
     "Shikhar": 0
   },
   {
@@ -12822,7 +13724,7 @@
     "DETS Beat": "D- NATUN BAZAR 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 5853.05,
+    "ECO": 6521.52,
     "Shikhar": 1152.12
   },
   {
@@ -12833,7 +13735,7 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- NIMTALA GHAT STREET",
-    "ECO": 25170.32,
+    "ECO": 25098.5,
     "Shikhar": 5818.99
   },
   {
@@ -12855,7 +13757,7 @@
     "DETS Beat": "D-COLOOTOLA PHEARS LANE",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-COLOOTOLA",
-    "ECO": 5959.39,
+    "ECO": 8036.94,
     "Shikhar": 1351.4
   },
   {
@@ -12866,7 +13768,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 690.16,
+    "ECO": 925.16,
     "Shikhar": 0
   },
   {
@@ -12879,6 +13781,17 @@
     "FnR Beat": "F-NIMTALA 2",
     "ECO": 6920.14,
     "Shikhar": 1130.84
+  },
+  {
+    "HUL Code": "HUL-217701D-P14314",
+    "HUL Outlet Name": "Sudha Store-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P11247",
@@ -12903,6 +13816,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-PAR643",
+    "HUL Outlet Name": "Sukhari Shaw-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sandip Saha",
+    "DETS Beat": "D-DURGA CHARAN MITRA STREET",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F- AHIRITOLA STREET",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P17098",
     "HUL Outlet Name": "SULEKHA STORES-D",
     "Shikhar Onboarding": "YES",
@@ -12910,7 +13834,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1249.13,
+    "ECO": 2291.5,
     "Shikhar": 0
   },
   {
@@ -12943,7 +13867,7 @@
     "DETS Beat": "D-CANNING STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 50989.19,
+    "ECO": 81261.95,
     "Shikhar": 16309.09
   },
   {
@@ -12954,7 +13878,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 642.66,
+    "ECO": 893.16,
     "Shikhar": 0
   },
   {
@@ -12991,6 +13915,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217085D-PAR646",
+    "HUL Outlet Name": "Sundaram-D-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sunil Mullick",
+    "DETS Beat": "D-BAGBAZAR",
+    "FnR ME Name": "Kakali Saha",
+    "FnR Beat": "F-BAG BAZAR",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217701D-P6626",
     "HUL Outlet Name": "Sundar-D",
     "Shikhar Onboarding": "YES",
@@ -13009,7 +13944,7 @@
     "DETS Beat": "D-MECHUA 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 3419.43,
+    "ECO": 3123.14,
     "Shikhar": 0
   },
   {
@@ -13024,6 +13959,17 @@
     "Shikhar": 0
   },
   {
+    "HUL Code": "HUL-217701D-P15558",
+    "HUL Outlet Name": "Sunil Stores-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
+  },
+  {
     "HUL Code": "HUL-217432D-S051",
     "HUL Outlet Name": "SUNIL STORES-D-D",
     "Shikhar Onboarding": "YES",
@@ -13031,7 +13977,7 @@
     "DETS Beat": "D-BABU BAZAR 2",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 4715.07,
+    "ECO": 5240.62,
     "Shikhar": 2771.18
   },
   {
@@ -13053,7 +13999,7 @@
     "DETS Beat": "D-GUR PATTY",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2559.9,
+    "ECO": 2764.43,
     "Shikhar": 0
   },
   {
@@ -13086,8 +14032,19 @@
     "DETS Beat": "",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 2921.08,
-    "Shikhar": 2625.62
+    "ECO": 3609.67,
+    "Shikhar": 3021.12
+  },
+  {
+    "HUL Code": "HUL-217701D-P4498",
+    "HUL Outlet Name": "SURAVI STORES-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-RAM MANDIR",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P11092",
@@ -13097,8 +14054,8 @@
     "DETS Beat": "D-NIMTALA GHAT STREET",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F- NIMTALA GHAT STREET",
-    "ECO": 3040.05,
-    "Shikhar": -17.63
+    "ECO": 4831.21,
+    "Shikhar": 1083.3
   },
   {
     "HUL Code": "HUL-217085D-P1240",
@@ -13119,7 +14076,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 642.89,
+    "ECO": 857.18,
     "Shikhar": 0
   },
   {
@@ -13141,7 +14098,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 1709.7,
+    "ECO": 3884.36,
     "Shikhar": 0
   },
   {
@@ -13163,7 +14120,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BURTOLA RETAIL",
-    "ECO": 6536.1,
+    "ECO": 7057.89,
     "Shikhar": 0
   },
   {
@@ -13174,7 +14131,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 4737.54,
+    "ECO": 4974.74,
     "Shikhar": 539.35
   },
   {
@@ -13185,7 +14142,7 @@
     "DETS Beat": "D-DURGA CHARAN MITRA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2345.39,
+    "ECO": 3294.51,
     "Shikhar": 1045.17
   },
   {
@@ -13218,8 +14175,8 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 436143.54,
-    "Shikhar": 217953.08
+    "ECO": 442810.26,
+    "Shikhar": 224619.8
   },
   {
     "HUL Code": "HUL-217085D-PAR533",
@@ -13251,7 +14208,7 @@
     "DETS Beat": "D-CANNING STREET 1",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 13090.93,
+    "ECO": 23454.67,
     "Shikhar": 0
   },
   {
@@ -13262,7 +14219,18 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 934.65,
+    "ECO": 1165.36,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217085D-PAR654",
+    "HUL Outlet Name": "Tapan Stores-D-D",
+    "Shikhar Onboarding": "NO",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-D.C.M STREET",
+    "FnR ME Name": "Soumik Ghosh",
+    "FnR Beat": "F-D C M STREET",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -13284,7 +14252,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-BAGREE MARKET",
-    "ECO": 12214.13,
+    "ECO": 13819.73,
     "Shikhar": 0
   },
   {
@@ -13295,7 +14263,7 @@
     "DETS Beat": "D-R.D.STREET_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-R D STREET",
-    "ECO": 4549.62,
+    "ECO": 4816.01,
     "Shikhar": 1277.46
   },
   {
@@ -13306,7 +14274,7 @@
     "DETS Beat": "",
     "FnR ME Name": "Soumik Ghosh",
     "FnR Beat": "F-NATUNBAZAR 2",
-    "ECO": 4669.02,
+    "ECO": 5535.94,
     "Shikhar": 0
   },
   {
@@ -13350,7 +14318,7 @@
     "DETS Beat": "D-M M TALA_COMM",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-M M TALA",
-    "ECO": 7591.97,
+    "ECO": 11033.54,
     "Shikhar": 1401.09
   },
   {
@@ -13361,8 +14329,8 @@
     "DETS Beat": "D-GUR PATTY",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-GUR PATTY",
-    "ECO": 278553.69,
-    "Shikhar": 140249.68
+    "ECO": 402554.15,
+    "Shikhar": 259571.22
   },
   {
     "HUL Code": "HUL-217701D-P12495",
@@ -13372,7 +14340,7 @@
     "DETS Beat": "D-KHOTTA BAZAR-WHOLESALE",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 9930.15,
+    "ECO": 12799.71,
     "Shikhar": 1991.32
   },
   {
@@ -13383,7 +14351,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 832.31,
+    "ECO": 1072.69,
     "Shikhar": 0
   },
   {
@@ -13416,7 +14384,7 @@
     "DETS Beat": "D-B K PAUL",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-B.K.PAUL",
-    "ECO": 4059.45,
+    "ECO": 5604.67,
     "Shikhar": 1071.44
   },
   {
@@ -13438,7 +14406,7 @@
     "DETS Beat": "D-NATUN BAZAR-1",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-NATUNBAZAR 1",
-    "ECO": 31106.35,
+    "ECO": 44165.8,
     "Shikhar": 10325.19
   },
   {
@@ -13449,7 +14417,7 @@
     "DETS Beat": "D-KHOTTA BAZAR",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 12574.53,
+    "ECO": 15527.06,
     "Shikhar": 1048.11
   },
   {
@@ -13484,6 +14452,17 @@
     "FnR Beat": "",
     "ECO": 10918.04,
     "Shikhar": 5787.45
+  },
+  {
+    "HUL Code": "HUL-217701D-P17362",
+    "HUL Outlet Name": "The Best Bargain Stores-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Sourav Das",
+    "DETS Beat": "D-D.C.M STREET",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P22317",
@@ -13526,7 +14505,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 8037.57,
+    "ECO": 7314.74,
     "Shikhar": 3411.7
   },
   {
@@ -13537,7 +14516,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1047.63,
+    "ECO": 1302.17,
     "Shikhar": 0
   },
   {
@@ -13570,7 +14549,7 @@
     "DETS Beat": "D-NIMTALA STREET 2",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-NIMTALA 2",
-    "ECO": 2197.47,
+    "ECO": 2016,
     "Shikhar": 0
   },
   {
@@ -13592,7 +14571,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 5337.7,
+    "ECO": 5608.33,
     "Shikhar": 0
   },
   {
@@ -13614,7 +14593,7 @@
     "DETS Beat": "D-M G ROAD",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-M.G.ROAD",
-    "ECO": 4175.26,
+    "ECO": 4696.11,
     "Shikhar": 0
   },
   {
@@ -13625,7 +14604,7 @@
     "DETS Beat": "D-ZAKARIA STREET",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 955.44,
+    "ECO": 1185.9,
     "Shikhar": 0
   },
   {
@@ -13658,8 +14637,8 @@
     "DETS Beat": "D-RAJAKATRA - 3_COMM",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2015.52,
-    "Shikhar": 0
+    "ECO": 5071.94,
+    "Shikhar": 2559.98
   },
   {
     "HUL Code": "HUL-217701D-P14912",
@@ -13669,7 +14648,7 @@
     "DETS Beat": "D-BORTALA STREET 1",
     "FnR ME Name": "Rajesh Karmakar",
     "FnR Beat": "F-KALAKAR STREET 2",
-    "ECO": 3952.18,
+    "ECO": 4217.64,
     "Shikhar": 0
   },
   {
@@ -13680,7 +14659,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 2289.14,
+    "ECO": 2525.5,
     "Shikhar": 0
   },
   {
@@ -13746,7 +14725,7 @@
     "DETS Beat": "D-Canning 3",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 17577.93,
+    "ECO": 25068.25,
     "Shikhar": 600
   },
   {
@@ -13768,8 +14747,19 @@
     "DETS Beat": "D-RAJAKATRA 5",
     "FnR ME Name": "Md. Asraf Ashraf",
     "FnR Beat": "F-RAJAKATRA 3",
-    "ECO": 3348451.75,
+    "ECO": 3349068.58,
     "Shikhar": 3305645.61
+  },
+  {
+    "HUL Code": "HUL-217701D-P14280",
+    "HUL Outlet Name": "VENUS COSMETICS-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": "Anjan Sarkar",
+    "DETS Beat": "D-M M TOLA 2",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
+    "Shikhar": 0
   },
   {
     "HUL Code": "HUL-217701D-P17402",
@@ -13801,7 +14791,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1372.11,
+    "ECO": 1607.11,
     "Shikhar": 0
   },
   {
@@ -13834,7 +14824,7 @@
     "DETS Beat": "D-BOW STREET(2)_COMM",
     "FnR ME Name": "Koina Prasad",
     "FnR Beat": "F-BOW STREET 2",
-    "ECO": 4861.91,
+    "ECO": 5069.42,
     "Shikhar": 0
   },
   {
@@ -13845,7 +14835,7 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 733.64,
+    "ECO": 977.83,
     "Shikhar": 0
   },
   {
@@ -13867,7 +14857,18 @@
     "DETS Beat": "D-JORABAGAN ST",
     "FnR ME Name": "Kakali Saha",
     "FnR Beat": "F-KHOTTA BAZAR",
-    "ECO": 9947.35,
+    "ECO": 10501.9,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P15353",
+    "HUL Outlet Name": "Wide Range-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
@@ -13889,7 +14890,18 @@
     "DETS Beat": "",
     "FnR ME Name": 0,
     "FnR Beat": "",
-    "ECO": 1027.26,
+    "ECO": 326.85,
+    "Shikhar": 0
+  },
+  {
+    "HUL Code": "HUL-217701D-P12535",
+    "HUL Outlet Name": "ZEENET-D",
+    "Shikhar Onboarding": "YES",
+    "DETS ME Name": 0,
+    "DETS Beat": "",
+    "FnR ME Name": 0,
+    "FnR Beat": "",
+    "ECO": 0,
     "Shikhar": 0
   },
   {
