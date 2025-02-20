@@ -480,7 +480,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -733,8 +733,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR226",
@@ -744,8 +744,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR226",
@@ -755,8 +755,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217085D-PAR242",
@@ -1393,7 +1393,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -1404,7 +1404,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -1415,7 +1415,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -1591,7 +1591,7 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -1602,7 +1602,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -1613,7 +1613,7 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 3,
-    "Achv Qty": 0,
+    "Achv Qty": 1,
     "Status": "Pending"
   },
   {
@@ -1899,7 +1899,7 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 1,
+    "Achv Qty": 2,
     "Status": "Completed"
   },
   {
@@ -2053,8 +2053,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P16833",
@@ -2064,8 +2064,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P16833",
@@ -2075,8 +2075,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701D-P17258",
@@ -2416,8 +2416,8 @@
     "BasePack Code": 81281,
     "BasePack Desc": "HELLMANNS MAYO SMOKY TANDOORI 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701F-P4326",
@@ -2427,8 +2427,8 @@
     "BasePack Code": 81282,
     "BasePack Desc": "HELLMANNS MAYO ROASTED GARLIC 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "HUL-217701F-P4326",
@@ -2438,8 +2438,8 @@
     "BasePack Code": 81283,
     "BasePack Desc": "HELLMANNS MAYO CHEESE JALAPENO 85 GM",
     "Target (VMQ)": 1,
-    "Achv Qty": 0,
-    "Status": "Pending"
+    "Achv Qty": 1,
+    "Status": "Completed"
   },
   {
     "HUL Code": "WB70000150276",
