@@ -2,7 +2,7 @@ let jsonData = [];
 
 async function fetchData() {
     try {
-        const response = await fetch("sales.json");
+        const response = await fetch("sales_fnr.json");
         if (!response.ok) throw new Error("Failed to fetch data.");
         jsonData = await response.json();
         initialize();
