@@ -16,11 +16,17 @@ function populateTable(data) {
     const tableBody = document.getElementById("table-body");
     tableBody.innerHTML = "";
 
-    data.forEach((item) => {
+    data.forEach((item, index) => {
         const row = document.createElement("tr");
+
+        // Add row number dynamically
+        const indexCell = document.createElement("td");
+        indexCell.textContent = index + 1;
+        row.appendChild(indexCell);
+
         for (const key of ["HUL Code", "HUL Outlet Name", "ME Name", "FNR Beat", "BasePack Code", "BasePack Desc", "Target (VMQ)", "Achv Qty", "Status"]) {
             const cell = document.createElement("td");
-            cell.textContent = item[key];
+            cell.textContent = item[key] || "-";
             row.appendChild(cell);
         }
         tableBody.appendChild(row);
@@ -30,26 +36,27 @@ function populateTable(data) {
 function applyFilters() {
     let filteredData = [...jsonData];
 
-    const filterMeName = document.getElementById("filter-me-name").value;
-    const filterFNRBeat = document.getElementById("filter-fnr-beat").value;
-    const filterBasePackDesc = document.getElementById("filter-basepack-desc").value;
+    const filters = {
+        "ME Name": document.getElementById("filter-me-name").value,
+        "FNR Beat": document.getElementById("filter-fnr-beat").value,
+        "BasePack Desc": document.getElementById("filter-basepack-desc").value
+    };
+
     const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
-    if (filterMeName) {
-        filteredData = filteredData.filter(row => row["ME Name"] === filterMeName);
-    }
-    if (filterFNRBeat) {
-        filteredData = filteredData.filter(row => row["FNR Beat"] === filterFNRBeat);
-    }
-    if (filterBasePackDesc) {
-        filteredData = filteredData.filter(row => row["BasePack Desc"] === filterBasePackDesc);
-    }
+    Object.keys(filters).forEach(key => {
+        if (filters[key]) {
+            filteredData = filteredData.filter(row => row[key] === filters[key]);
+        }
+    });
+
     if (searchQuery) {
-        filteredData = filteredData.filter(row => 
+        filteredData = filteredData.filter(row =>
             row["HUL Code"].toLowerCase().includes(searchQuery) ||
             row["HUL Outlet Name"].toLowerCase().includes(searchQuery)
         );
     }
+
     if (filterButtonActive) {
         filteredData = filteredData.filter(row => row["Status"] === "Pending");
     }
@@ -59,17 +66,19 @@ function applyFilters() {
 }
 
 function updateDropdowns(filteredData) {
-    const meNames = new Set(), fnrBeats = new Set(), basePackDescs = new Set();
-    
+    const dropdowns = {
+        "filter-me-name": new Set(),
+        "filter-fnr-beat": new Set(),
+        "filter-basepack-desc": new Set()
+    };
+
     filteredData.forEach(row => {
-        if (row["ME Name"]) meNames.add(row["ME Name"]);
-        if (row["FNR Beat"]) fnrBeats.add(row["FNR Beat"]);
-        if (row["BasePack Desc"]) basePackDescs.add(row["BasePack Desc"]);
+        if (row["ME Name"]) dropdowns["filter-me-name"].add(row["ME Name"]);
+        if (row["FNR Beat"]) dropdowns["filter-fnr-beat"].add(row["FNR Beat"]);
+        if (row["BasePack Desc"]) dropdowns["filter-basepack-desc"].add(row["BasePack Desc"]);
     });
 
-    populateSelectDropdown("filter-me-name", meNames, "ME Name");
-    populateSelectDropdown("filter-fnr-beat", fnrBeats, "FNR Beat");
-    populateSelectDropdown("filter-basepack-desc", basePackDescs, "BasePack Desc");
+    Object.keys(dropdowns).forEach(id => populateSelectDropdown(id, dropdowns[id], id.replace("filter-", "").replace("-", " ").toUpperCase()));
 }
 
 function populateSelectDropdown(id, optionsSet, columnName) {
@@ -80,7 +89,6 @@ function populateSelectDropdown(id, optionsSet, columnName) {
     const defaultOption = document.createElement("option");
     defaultOption.textContent = columnName;
     defaultOption.value = "";
-    defaultOption.selected = true;
     dropdown.appendChild(defaultOption);
 
     optionsSet.forEach(option => {
@@ -118,4 +126,4 @@ function initialize() {
     applyFilters();
 }
 
-fetchData()
+fetchData();
