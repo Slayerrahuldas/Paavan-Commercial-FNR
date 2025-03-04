@@ -1,1 +1,42 @@
-
+[
+    {
+        "HUL Code": "HUL12345",
+        "HUL Outlet Name": "Outlet A",
+        "ME Name": "John Doe",
+        "DETS Beat": "Beat 1",
+        "LYRR": 1000,
+        "JQRR": 900,
+        "LYTM": 1200,
+        "MTD": 500
+    },
+    {
+        "HUL Code": "HUL67890",
+        "HUL Outlet Name": "Outlet B",
+        "ME Name": "Jane Smith",
+        "DETS Beat": "Beat 2",
+        "LYRR": 1500,
+        "JQRR": 1300,
+        "LYTM": 1600,
+        "MTD": 700
+    },
+    {
+        "HUL Code": "HUL11223",
+        "HUL Outlet Name": "Outlet C",
+        "ME Name": "Alice Johnson",
+        "DETS Beat": "Beat 1",
+        "LYRR": 1100,
+        "JQRR": 1000,
+        "LYTM": 1300,
+        "MTD": 600
+    },
+    {
+        "HUL Code": "HUL44556",
+        "HUL Outlet Name": "Outlet D",
+        "ME Name": "Bob Williams",
+        "DETS Beat": "Beat 3",
+        "LYRR": 2000,
+        "JQRR": 1900,
+        "LYTM": 2200,
+        "MTD": 1000
+    }
+]
