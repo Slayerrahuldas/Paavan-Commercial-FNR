@@ -17,72 +17,61 @@ function populateTable(data) {
 
     data.forEach((item, index) => {
         const row = document.createElement("tr");
+        const cellIndex = document.createElement("td");
+        cellIndex.textContent = index + 1;
+        row.appendChild(cellIndex);
 
-        // Add row number dynamically
-        const indexCell = document.createElement("td");
-        indexCell.textContent = index + 1;
-        row.appendChild(indexCell);
-
-        for (const key of ["HUL Code", "HUL Outlet Name", "ME Name", "DETS Beat", "LYRR", "JQRR", "LYTM", "MTD"]) {
+        ["HUL Code", "HUL Outlet Name", "ME Name", "FNR Beat", "LYRR", "JQRR", "LYTM", "MTD"].forEach(key => {
             const cell = document.createElement("td");
             cell.textContent = item[key] || "-";
             row.appendChild(cell);
-        }
+        });
         tableBody.appendChild(row);
     });
 }
 
 function applyFilters() {
     let filteredData = [...jsonData];
-
-    const filters = {
-        "ME Name": document.getElementById("filter-me-name").value,
-        "DETS Beat": document.getElementById("filter-dets-beat").value
-    };
-
+    const filterMeName = document.getElementById("filter-me-name").value;
+    const filterFnrBeat = document.getElementById("filter-fnr-beat").value;
     const searchQuery = document.getElementById("search-bar").value.toLowerCase();
 
-    Object.keys(filters).forEach(key => {
-        if (filters[key]) {
-            filteredData = filteredData.filter(row => row[key] === filters[key]);
-        }
-    });
-
+    if (filterMeName) {
+        filteredData = filteredData.filter(row => row["ME Name"] === filterMeName);
+    }
+    if (filterFnrBeat) {
+        filteredData = filteredData.filter(row => row["FNR Beat"] === filterFnrBeat);
+    }
     if (searchQuery) {
-        filteredData = filteredData.filter(row =>
+        filteredData = filteredData.filter(row => 
             row["HUL Code"].toLowerCase().includes(searchQuery) ||
             row["HUL Outlet Name"].toLowerCase().includes(searchQuery)
         );
     }
-
     populateTable(filteredData);
     updateDropdowns(filteredData);
 }
 
 function updateDropdowns(filteredData) {
-    const dropdowns = {
-        "filter-me-name": new Set(),
-        "filter-dets-beat": new Set()
-    };
-
+    const meNames = new Set(), fnrBeats = new Set();
     filteredData.forEach(row => {
-        if (row["ME Name"]) dropdowns["filter-me-name"].add(row["ME Name"]);
-        if (row["DETS Beat"]) dropdowns["filter-dets-beat"].add(row["DETS Beat"]);
+        if (row["ME Name"]) meNames.add(row["ME Name"]);
+        if (row["FNR Beat"]) fnrBeats.add(row["FNR Beat"]);
     });
-
-    Object.keys(dropdowns).forEach(id => populateSelectDropdown(id, dropdowns[id], id.replace("filter-", "").replace("-", " ").toUpperCase()));
+    populateSelectDropdown("filter-me-name", meNames, "ME Name");
+    populateSelectDropdown("filter-fnr-beat", fnrBeats, "FNR Beat");
 }
 
 function populateSelectDropdown(id, optionsSet, columnName) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
     dropdown.innerHTML = "";
-
+    
     const defaultOption = document.createElement("option");
     defaultOption.textContent = columnName;
     defaultOption.value = "";
     dropdown.appendChild(defaultOption);
-
+    
     optionsSet.forEach(option => {
         const optionElement = document.createElement("option");
         optionElement.textContent = option;
@@ -95,13 +84,13 @@ function populateSelectDropdown(id, optionsSet, columnName) {
 document.getElementById("reset-button").addEventListener("click", () => {
     document.getElementById("search-bar").value = "";
     document.getElementById("filter-me-name").selectedIndex = 0;
-    document.getElementById("filter-dets-beat").selectedIndex = 0;
-    applyFilters();
+    document.getElementById("filter-fnr-beat").selectedIndex = 0;
+    applyFiltrs();
 });
 
 document.getElementById("search-bar").addEventListener("input", applyFilters);
 document.getElementById("filter-me-name").addEventListener("change", applyFilters);
-document.getElementById("filter-dets-beat").addEventListener("change", applyFilters);
+document.getElementById("filter-fnr-beat").addEventListener("change", applyFilters);
 
 function initialize() {
     populateTable(jsonData);
