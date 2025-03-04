@@ -1,1 +1,57 @@
-
+[
+  {
+    "HUL Code": "HUL-216252F-1573",
+    "HUL Outlet Name": "APURBA TEA COMPANY B.K.PAUL)-F-D",
+    "ME Name": 0,
+    "FNR Beat": "",
+    "BasePack Code": 13336,
+    "BasePack Desc": "VIM LIQUID 200ML POUCH",
+    "Target (VMQ)": 3,
+    "Achv Qty": 3,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-216252F-2009",
+    "HUL Outlet Name": "MAA TARA ENTERPRISE(NATUNBAZAR)-D-D",
+    "ME Name": "Sourav Das",
+    "FNR Beat": "D-NIMTALA STREET 2",
+    "BasePack Code": 13336,
+    "BasePack Desc": "VIM LIQUID 200ML POUCH",
+    "Target (VMQ)": 6,
+    "Achv Qty": 6,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-216252F-C740",
+    "HUL Outlet Name": "NEWSATYANARAYANBHANDAR(BAGBAZAR)-F-D",
+    "ME Name": "Sunil Mullick",
+    "FNR Beat": "D-BAGBAZAR",
+    "BasePack Code": 13336,
+    "BasePack Desc": "VIM LIQUID 200ML POUCH",
+    "Target (VMQ)": 6,
+    "Achv Qty": 12,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-216788P1102",
+    "HUL Outlet Name": "SREE HANUMAN BHANDER-U2nc",
+    "ME Name": "Sunil Mullick",
+    "FNR Beat": "D-KALAKAR STREET 2",
+    "BasePack Code": 13336,
+    "BasePack Desc": "VIM LIQUID 200ML POUCH",
+    "Target (VMQ)": 6,
+    "Achv Qty": 12,
+    "Status": "Completed"
+  },
+  {
+    "HUL Code": "HUL-217085D-P1009",
+    "HUL Outlet Name": "VIMSEN DAS-D-D",
+    "ME Name": "S K Islam",
+    "FNR Beat": "D-BOW STREET(2)_COMM",
+    "BasePack Code": 13336,
+    "BasePack Desc": "VIM LIQUID 200ML POUCH",
+    "Target (VMQ)": 2,
+    "Achv Qty": 2,
+    "Status": "Completed"
+  }
+  ]
