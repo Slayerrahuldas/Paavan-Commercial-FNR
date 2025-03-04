@@ -15,6 +15,55 @@ function populateTable(data) {
     const tableBody = document.getElementById("table-body");
     tableBody.innerHTML = "";
 
+    // Columns to total
+    const totalColumns = ["LYRR", "JQRR", "LYTM", "MTD"];
+    let totals = { "LYRR": 0, "JQRR": 0, "LYTM": 0, "MTD": 0 };
+
+    // Get selected values from dropdowns
+    const selectedMeName = document.getElementById("filter-me-name").value || "ALL ME";
+    const selectedFnrBeat = document.getElementById("filter-fnr-beat").value || "ALL Beats";
+
+    // Calculate totals
+    data.forEach(item => {
+        totalColumns.forEach(key => {
+            totals[key] += parseFloat(item[key]) || 0;
+        });
+    });
+
+    // Create Total Row
+    const totalRow = document.createElement("tr");
+    totalRow.style.fontWeight = "bold";
+    totalRow.style.backgroundColor = "#f2f2f2";
+
+    let totalIndexCell = document.createElement("td");
+    totalIndexCell.textContent = "Total";
+    totalRow.appendChild(totalIndexCell);
+
+    ["HUL Code", "HUL Outlet Name"].forEach(() => {
+        let emptyCell = document.createElement("td");
+        emptyCell.textContent = "-";
+        totalRow.appendChild(emptyCell);
+    });
+
+    // Set "ME Name" column as selected dropdown value
+    let meNameCell = document.createElement("td");
+    meNameCell.textContent = selectedMeName;
+    totalRow.appendChild(meNameCell);
+
+    // Set "FNR Beat" column as selected dropdown value
+    let beatCell = document.createElement("td");
+    beatCell.textContent = selectedFnrBeat;
+    totalRow.appendChild(beatCell);
+
+    totalColumns.forEach(key => {
+        let totalCell = document.createElement("td");
+        totalCell.textContent = totals[key]; // No decimal formatting
+        totalRow.appendChild(totalCell);
+    });
+
+    tableBody.appendChild(totalRow);
+
+    // Populate Data Rows
     data.forEach((item, index) => {
         const row = document.createElement("tr");
         const cellIndex = document.createElement("td");
@@ -26,6 +75,7 @@ function populateTable(data) {
             cell.textContent = item[key] || "-";
             row.appendChild(cell);
         });
+
         tableBody.appendChild(row);
     });
 }
@@ -66,12 +116,13 @@ function populateSelectDropdown(id, optionsSet, columnName) {
     const dropdown = document.getElementById(id);
     const selectedValue = dropdown.value;
     dropdown.innerHTML = "";
-    
+
+    // Dropdown header
     const defaultOption = document.createElement("option");
     defaultOption.textContent = columnName;
     defaultOption.value = "";
     dropdown.appendChild(defaultOption);
-    
+
     optionsSet.forEach(option => {
         const optionElement = document.createElement("option");
         optionElement.textContent = option;
@@ -85,7 +136,7 @@ document.getElementById("reset-button").addEventListener("click", () => {
     document.getElementById("search-bar").value = "";
     document.getElementById("filter-me-name").selectedIndex = 0;
     document.getElementById("filter-fnr-beat").selectedIndex = 0;
-    applyFiltrs();
+    applyFilters();
 });
 
 document.getElementById("search-bar").addEventListener("input", applyFilters);
